@@ -125,7 +125,8 @@ class TranscriptionService:
             segment_list.append(segment_dict)
             
             # Update progress
-            if progress_callback and i % 5 == 0:  # Update every 5 segments
+            if progress_callback:  # Update on every segment for better feedback
+                # Calculate progress (15% to 90%)
                 progress = min(15 + int((i / max(total_segments_estimate, 1)) * 75), 90)
                 elapsed = time.time() - start_time
                 speed = segment.end / elapsed if elapsed > 0 else 0
@@ -133,7 +134,7 @@ class TranscriptionService:
                 progress_callback({
                     "stage": "transcribing",
                     "progress": progress,
-                    "message": f"Transcribing... ({i} segments processed)",
+                    "message": f"Transcribing... ({i+1} segments)",
                     "speed": f"{speed:.1f}x",
                     "elapsed": elapsed
                 })
