@@ -24,4 +24,4 @@ EXPOSE 5000
 
 # Start the application using gunicorn
 # Note: app:app refers to the 'app' object in 'app.py'
-CMD ["gunicorn", "--worker-class", "eventlet", "-w", "1", "--bind", "0.0.0.0:5000", "app:app"]
+CMD ["gunicorn", "--worker-class", "eventlet", "-w", "1", "--timeout", "1000", "--bind", "0.0.0.0:5000", "app:app"]
