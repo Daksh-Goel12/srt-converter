@@ -19,7 +19,7 @@ load_dotenv(Path(__file__).parent.parent / '.env')
 
 app = Flask(__name__)
 CORS(app, resources={r"/*": {"origins": "*"}})
-socketio = SocketIO(app, cors_allowed_origins="*", async_mode='threading')
+socketio = SocketIO(app, cors_allowed_origins="*")
 
 # Configuration
 UPLOAD_FOLDER = Path("uploads")
