@@ -24,13 +24,5 @@ services:
     envVars:
       - key: NODE_VERSION
         value: 20
-      - key: PYTHON_SERVICE_HOST
-        fromService:
-          type: web
-          name: srt-converter-backend
-          property: host
-      - key: PYTHON_SERVICE_PORT
-        fromService:
-          type: web
-          name: srt-converter-backend
-          property: port
+      - key: PYTHON_SERVICE_URL
+        sync: false # User must enter the Public URL of the Backend Service (e.g. https://backend.onrender.com)
