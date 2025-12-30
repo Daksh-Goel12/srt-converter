@@ -184,12 +184,17 @@ def transcribe():
     save_jobs()  # Persist to disk
     
     # Start transcription in background thread
-    thread = threading.Thread(
-        target=process_transcription,
-        args=(job_id, str(audio_path), model_size, language, task, use_claude_correction, source_language)
+    # Start transcription in background task (compatible with eventlet)
+    socketio.start_background_task(
+        process_transcription,
+        job_id,
+        str(audio_path),
+        model_size,
+        language,
+        task,
+        use_claude_correction,
+        source_language
     )
-    thread.daemon = True
-    thread.start()
     
     return jsonify({
         "job_id": job_id,
