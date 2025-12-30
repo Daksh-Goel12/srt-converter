@@ -13,12 +13,12 @@ services:
         sync: false  # User will be prompted to enter this
       - key: ALLOWED_ORIGINS
         fromService:
-          type: static
+          type: site
           name: srt-converter-client
           property: url
 
   # Frontend: Static React Site
-  - type: static
+  - type: site
     name: srt-converter-client
     root: .
     buildCommand: npm install && npm run build
