@@ -1,0 +1,11 @@
+/* Temporary fix: Disable all visual effects that might cause flickering */
+* {
+  backdrop-filter: none !important;
+  -webkit-backdrop-filter: none !important;
+  filter: none !important;
+  box-shadow: none !important;
+  text-shadow: none !important;
+  transform: none !important;
+  animation: none !important;
+  transition: none !important;
+}

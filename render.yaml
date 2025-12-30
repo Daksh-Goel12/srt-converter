@@ -1,0 +1,31 @@
+services:
+  # Backend: Python Service
+  - type: web
+    name: srt-converter-backend
+    env: docker
+    root: python-service
+    plan: free
+    region: oregon
+    envVars:
+      - key: PYTHON_SERVICE_PORT
+        value: 5000
+      - key: ANTHROPIC_API_KEY
+        sync: false  # User will be prompted to enter this
+      - key: ALLOWED_ORIGINS
+        fromService:
+          type: static
+          name: srt-converter-client
+          property: url
+
+  # Frontend: Static React Site
+  - type: static
+    name: srt-converter-client
+    root: .
+    buildCommand: npm install && npm run build
+    publishDir: dist/public
+    envVars:
+      - key: VITE_API_URL
+        fromService:
+          type: web
+          name: srt-converter-backend
+          property: url

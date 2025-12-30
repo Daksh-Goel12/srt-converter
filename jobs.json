@@ -1,0 +1,4312 @@
+{
+  "085933e8-2a1c-485d-92f6-76aa343689c6": {
+    "id": "085933e8-2a1c-485d-92f6-76aa343689c6",
+    "status": "completed",
+    "progress": 100,
+    "filename": "2026_job_predictions.wav",
+    "audio_path": "uploads\\085933e8-2a1c-485d-92f6-76aa343689c6_2026_job_predictions.wav",
+    "model_size": "base",
+    "language": "hi",
+    "task": "translate",
+    "file_hash": "307f03eabe91cbdebea9cc228dc027b392c9566a5dee2fd3ca0920d9c47239a2",
+    "stage": "completed",
+    "message": "Transcription completed! (AI-corrected)",
+    "srt_path": "outputs\\085933e8-2a1c-485d-92f6-76aa343689c6.srt",
+    "metadata": {
+      "language": "hi",
+      "language_probability": 1,
+      "duration": 1087.34,
+      "processing_time": 102.02408766746521,
+      "speed_ratio": 10.657679229086067,
+      "segment_count": 190,
+      "claude_corrected": true
+    },
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.78,
+        "end": 19.7,
+        "text": "For the job market of 2016, we start with 10 predictions.",
+        "words": []
+      },
+      {
+        "id": 2,
+        "start": 19.7,
+        "end": 22.7,
+        "text": "1. Fresher market.",
+        "words": []
+      },
+      {
+        "id": 3,
+        "start": 22.7,
+        "end": 25.18,
+        "text": "2 will be there.",
+        "words": []
+      },
+      {
+        "id": 4,
+        "start": 25.18,
+        "end": 33.16,
+        "text": "1. Top Institutes. Top 10 to 20% freshers.",
+        "words": []
+      },
+      {
+        "id": 5,
+        "start": 33.16,
+        "end": 36.16,
+        "text": "Genies of salaries. Job opportunities.",
+        "words": []
+      },
+      {
+        "id": 6,
+        "start": 36.16,
+        "end": 38.16,
+        "text": "Placements will go through the roof.",
+        "words": []
+      },
+      {
+        "id": 7,
+        "start": 38.16,
+        "end": 42.47,
+        "text": "2. Medium.",
+        "words": []
+      },
+      {
+        "id": 8,
+        "start": 42.47,
+        "end": 44.47,
+        "text": "2. The average graduate.",
+        "words": []
+      },
+      {
+        "id": 9,
+        "start": 44.47,
+        "end": 54.55,
+        "text": "They will struggle to find good opportunities.",
+        "words": []
+      },
+      {
+        "id": 10,
+        "start": 54.55,
+        "end": 59.55,
+        "text": "2. Top Institutes. Record placements.",
+        "words": []
+      },
+      {
+        "id": 11,
+        "start": 59.55,
+        "end": 64.38,
+        "text": "3. I am so you name it.",
+        "words": []
+      },
+      {
+        "id": 12,
+        "start": 64.38,
+        "end": 68.38,
+        "text": "3. At the same time, bulk hiring in IT industry is collapsing.",
+        "words": []
+      },
+      {
+        "id": 13,
+        "start": 68.38,
+        "end": 84.84,
+        "text": "3. The average graduate.",
+        "words": []
+      },
+      {
+        "id": 14,
+        "start": 84.84,
+        "end": 88.84,
+        "text": "3. They cannot rely on placements and on colleges getting the best offers.",
+        "words": []
+      },
+      {
+        "id": 15,
+        "start": 88.84,
+        "end": 92.84,
+        "text": "3. They will have to go out and create opportunities for them.",
+        "words": []
+      },
+      {
+        "id": 16,
+        "start": 92.84,
+        "end": 94.84,
+        "text": "3. They will go through internships.",
+        "words": []
+      },
+      {
+        "id": 17,
+        "start": 94.84,
+        "end": 97.84,
+        "text": "3. They will go through portfolios.",
+        "words": []
+      },
+      {
+        "id": 18,
+        "start": 97.84,
+        "end": 99.84,
+        "text": "3. You have to be ready for this reality.",
+        "words": []
+      },
+      {
+        "id": 19,
+        "start": 99.84,
+        "end": 103.84,
+        "text": "4. I will assign about 80%.",
+        "words": []
+      },
+      {
+        "id": 20,
+        "start": 103.84,
+        "end": 111.02,
+        "text": "2. AI Fluency.",
+        "words": []
+      },
+      {
+        "id": 21,
+        "start": 111.02,
+        "end": 113.02,
+        "text": "1. Hygiene factor.",
+        "words": []
+      },
+      {
+        "id": 22,
+        "start": 113.02,
+        "end": 115.02,
+        "text": "1. No bonus factor.",
+        "words": []
+      },
+      {
+        "id": 23,
+        "start": 115.02,
+        "end": 118.02,
+        "text": "4. Every company expects you to work with AI tools.",
+        "words": []
+      },
+      {
+        "id": 24,
+        "start": 118.02,
+        "end": 123.02,
+        "text": "4. Every company expects you to work better and better.",
+        "words": []
+      },
+      {
+        "id": 25,
+        "start": 123.02,
+        "end": 124.02,
+        "text": "4. Using AI.",
+        "words": []
+      },
+      {
+        "id": 26,
+        "start": 124.02,
+        "end": 126.02,
+        "text": "4. This is not a job requirement.",
+        "words": []
+      },
+      {
+        "id": 27,
+        "start": 126.02,
+        "end": 128.02,
+        "text": "4. This is a necessity.",
+        "words": []
+      },
+      {
+        "id": 28,
+        "start": 128.02,
+        "end": 132.02,
+        "text": "4. In 2016, it is going to become even more mainstream.",
+        "words": []
+      },
+      {
+        "id": 29,
+        "start": 132.02,
+        "end": 137.03,
+        "text": "4. Why should I say this?",
+        "words": []
+      },
+      {
+        "id": 30,
+        "start": 137.03,
+        "end": 141.03,
+        "text": "4. It has already reported that 50% of the working professions in India",
+        "words": []
+      },
+      {
+        "id": 31,
+        "start": 141.03,
+        "end": 146.5,
+        "text": "are going through some form of AI training or not.",
+        "words": []
+      },
+      {
+        "id": 32,
+        "start": 146.5,
+        "end": 170.06,
+        "text": "4. AI hiring growth is 30% in India, which is one of the highest in the world.",
+        "words": []
+      },
+      {
+        "id": 33,
+        "start": 170.06,
+        "end": 172.06,
+        "text": "4. What does it mean?",
+        "words": []
+      },
+      {
+        "id": 34,
+        "start": 172.06,
+        "end": 183.85,
+        "text": "4. You can claim that I use AI for writing, presentations, email drafting, daily basis.",
+        "words": []
+      },
+      {
+        "id": 35,
+        "start": 183.85,
+        "end": 187.85,
+        "text": "4. I use AI for work flows.",
+        "words": []
+      },
+      {
+        "id": 36,
+        "start": 187.85,
+        "end": 199.1,
+        "text": "4. I know that I can do better with AI.",
+        "words": []
+      },
+      {
+        "id": 37,
+        "start": 199.1,
+        "end": 216.99,
+        "text": "4. I will assign about 85% to 90%.",
+        "words": []
+      },
+      {
+        "id": 38,
+        "start": 216.99,
+        "end": 219.99,
+        "text": "3. Degrees of importance.",
+        "words": []
+      },
+      {
+        "id": 39,
+        "start": 219.99,
+        "end": 226.38,
+        "text": "4. Portfolio is important.",
+        "words": []
+      },
+      {
+        "id": 40,
+        "start": 226.38,
+        "end": 228.38,
+        "text": "4. Many companies are doing this.",
+        "words": []
+      },
+      {
+        "id": 41,
+        "start": 228.38,
+        "end": 231.38,
+        "text": "4. Colleges' name, degree, doesn't matter.",
+        "words": []
+      },
+      {
+        "id": 42,
+        "start": 231.38,
+        "end": 233.38,
+        "text": "4. What does student learn?",
+        "words": []
+      },
+      {
+        "id": 43,
+        "start": 233.38,
+        "end": 241.34,
+        "text": "4. What does student learn?",
+        "words": []
+      },
+      {
+        "id": 44,
+        "start": 241.34,
+        "end": 244.34,
+        "text": "4. Is it applied in real life?",
+        "words": []
+      },
+      {
+        "id": 45,
+        "start": 244.34,
+        "end": 249.62,
+        "text": "4. For a coder, the profile of his GitHub is more important than his degree.",
+        "words": []
+      },
+      {
+        "id": 46,
+        "start": 249.62,
+        "end": 253.62,
+        "text": "4. For a designer, the profile of his Behance is more important than his degree.",
+        "words": []
+      },
+      {
+        "id": 47,
+        "start": 253.62,
+        "end": 257.62,
+        "text": "4. For a content writer, the profile of his medium is more important than his degree.",
+        "words": []
+      },
+      {
+        "id": 48,
+        "start": 257.62,
+        "end": 269.99,
+        "text": "4. Irrespective of which profession you are in,",
+        "words": []
+      },
+      {
+        "id": 49,
+        "start": 269.99,
+        "end": 270.99,
+        "text": "4. A body of work is made.",
+        "words": []
+      },
+      {
+        "id": 50,
+        "start": 270.99,
+        "end": 273.99,
+        "text": "4. If you are a white, collared, professional",
+        "words": []
+      },
+      {
+        "id": 51,
+        "start": 273.99,
+        "end": 283.7,
+        "text": "4. If you are a knowledge worker, you have to make a portfolio.",
+        "words": []
+      },
+      {
+        "id": 52,
+        "start": 283.7,
+        "end": 287.7,
+        "text": "4. A body of work is made which will display publicly",
+        "words": []
+      },
+      {
+        "id": 53,
+        "start": 287.7,
+        "end": 292.7,
+        "text": "4. How much you know, how much you learn, how much you can contribute from day 1.",
+        "words": []
+      },
+      {
+        "id": 54,
+        "start": 292.7,
+        "end": 294.7,
+        "text": "5. I will assign this probability.",
+        "words": []
+      },
+      {
+        "id": 55,
+        "start": 294.7,
+        "end": 301.98,
+        "text": "7. 70% to 75%.",
+        "words": []
+      },
+      {
+        "id": 56,
+        "start": 301.98,
+        "end": 309.1,
+        "text": "4. I call it the Geekification of white collared jobs and multiple income streams.",
+        "words": []
+      },
+      {
+        "id": 57,
+        "start": 309.1,
+        "end": 321.43,
+        "text": "Basically, freelance economy is going to boom in 2026.",
+        "words": []
+      },
+      {
+        "id": 58,
+        "start": 321.43,
+        "end": 326.43,
+        "text": "9. Nithi Ayyog has predicted that in 2020, there are 7.7 million Geek workers.",
+        "words": []
+      },
+      {
+        "id": 59,
+        "start": 326.43,
+        "end": 331.43,
+        "text": "9. In 2030, there will be about 30 million Geek workers in this country.",
+        "words": []
+      },
+      {
+        "id": 60,
+        "start": 331.43,
+        "end": 340.42,
+        "text": "9. And when you think about Geek workers, don't think about delivery drivers.",
+        "words": []
+      },
+      {
+        "id": 61,
+        "start": 340.42,
+        "end": 341.42,
+        "text": "9. That's one part of it.",
+        "words": []
+      },
+      {
+        "id": 62,
+        "start": 341.42,
+        "end": 346.51,
+        "text": "9. Think, design, tech, content, consulting.",
+        "words": []
+      },
+      {
+        "id": 63,
+        "start": 346.51,
+        "end": 360.41,
+        "text": "9. Now what does it mean for you? Multiple income streams are important.",
+        "words": []
+      },
+      {
+        "id": 64,
+        "start": 360.41,
+        "end": 364.41,
+        "text": "9. With your day job, any skill developed which can be billable",
+        "words": []
+      },
+      {
+        "id": 65,
+        "start": 364.41,
+        "end": 366.41,
+        "text": "that you can earn money through it.",
+        "words": []
+      },
+      {
+        "id": 66,
+        "start": 366.41,
+        "end": 371.64,
+        "text": "9. How do you get contracts?",
+        "words": []
+      },
+      {
+        "id": 67,
+        "start": 371.64,
+        "end": 374.64,
+        "text": "9. How do you get contracts?",
+        "words": []
+      },
+      {
+        "id": 68,
+        "start": 374.64,
+        "end": 377.64,
+        "text": "9. How do you get pricing? How do you get negotiation?",
+        "words": []
+      },
+      {
+        "id": 69,
+        "start": 377.64,
+        "end": 384.64,
+        "text": "9. In fact, this need is so evident that we launched a new course called the Ultimate Freelancing Guide",
+        "words": []
+      },
+      {
+        "id": 70,
+        "start": 384.64,
+        "end": 387.64,
+        "text": "which will teach you step by step on how to become a freelancer.",
+        "words": []
+      },
+      {
+        "id": 71,
+        "start": 387.64,
+        "end": 394.64,
+        "text": "9. And that course's adoption through the roof is because people want to now see freelancing as a legit career",
+        "words": []
+      },
+      {
+        "id": 72,
+        "start": 394.64,
+        "end": 403.49,
+        "text": "not as an option.",
+        "words": []
+      },
+      {
+        "id": 73,
+        "start": 403.49,
+        "end": 405.49,
+        "text": "9. It's prediction, about 70%.",
+        "words": []
+      },
+      {
+        "id": 74,
+        "start": 405.49,
+        "end": 415.13,
+        "text": "9. Number 5, for knowledge work, hybrid will be the default. Everything else, come back to work.",
+        "words": []
+      },
+      {
+        "id": 75,
+        "start": 415.13,
+        "end": 421.47,
+        "text": "9. Number 5, for knowledge work, hybrid will be the default.",
+        "words": []
+      },
+      {
+        "id": 76,
+        "start": 421.47,
+        "end": 424.47,
+        "text": "9. And for anything else, come back to office.",
+        "words": []
+      },
+      {
+        "id": 77,
+        "start": 424.47,
+        "end": 439.14,
+        "text": "9. If you tell me the data, your knowledge work is already fully remote.",
+        "words": []
+      },
+      {
+        "id": 78,
+        "start": 439.14,
+        "end": 442.46,
+        "text": "9. And around 28% follow a hybrid model.",
+        "words": []
+      },
+      {
+        "id": 79,
+        "start": 442.46,
+        "end": 454.49,
+        "text": "9. So if the company wants a top talent, they will have to provide flexibility.",
+        "words": []
+      },
+      {
+        "id": 80,
+        "start": 454.49,
+        "end": 458.49,
+        "text": "9. If the hybrid is fully remote and that is here to stay.",
+        "words": []
+      },
+      {
+        "id": 81,
+        "start": 458.49,
+        "end": 463.62,
+        "text": "9. Now what does it mean for you?",
+        "words": []
+      },
+      {
+        "id": 82,
+        "start": 463.62,
+        "end": 467.62,
+        "text": "9. It means that in hybrid, communication becomes far more important.",
+        "words": []
+      },
+      {
+        "id": 83,
+        "start": 467.62,
+        "end": 472.9,
+        "text": "9. Sharing progress reports become far more important.",
+        "words": []
+      },
+      {
+        "id": 84,
+        "start": 472.9,
+        "end": 482.06,
+        "text": "9. Keeping your calendar clean and actually maintaining a calendar becomes far more important.",
+        "words": []
+      },
+      {
+        "id": 85,
+        "start": 482.06,
+        "end": 487.06,
+        "text": "9. So please get used to all of this and understand how remotely you can work.",
+        "words": []
+      },
+      {
+        "id": 86,
+        "start": 487.06,
+        "end": 492.47,
+        "text": "9. And despite remote, still maximize your quality.",
+        "words": []
+      },
+      {
+        "id": 87,
+        "start": 492.47,
+        "end": 494.47,
+        "text": "9. Web weather, for example, is fully remote.",
+        "words": []
+      },
+      {
+        "id": 88,
+        "start": 494.47,
+        "end": 499.47,
+        "text": "9. And the people who work from all over the world, we don't have any office hours.",
+        "words": []
+      },
+      {
+        "id": 89,
+        "start": 499.47,
+        "end": 506.47,
+        "text": "9. We don't have any meetings and yet we come together to create a business that is serving 500,000 students.",
+        "words": []
+      },
+      {
+        "id": 90,
+        "start": 506.47,
+        "end": 516.85,
+        "text": "9. And 16 million followers on content.",
+        "words": []
+      },
+      {
+        "id": 91,
+        "start": 516.85,
+        "end": 518.85,
+        "text": "9. Its prediction, around 75%.",
+        "words": []
+      },
+      {
+        "id": 92,
+        "start": 518.85,
+        "end": 524.57,
+        "text": "9. Number 6, your competition will be global.",
+        "words": []
+      },
+      {
+        "id": 93,
+        "start": 524.57,
+        "end": 527.57,
+        "text": "9. And tier 2, tier 3, India will be like this.",
+        "words": []
+      },
+      {
+        "id": 94,
+        "start": 527.57,
+        "end": 537.54,
+        "text": "9. In 2016, a fresh Delhi Mumbai Bangalore, Chennai, Hyderabad will graduate from Pune.",
+        "words": []
+      },
+      {
+        "id": 95,
+        "start": 537.54,
+        "end": 541.54,
+        "text": "9. And only if you don't compete with your own batch.",
+        "words": []
+      },
+      {
+        "id": 96,
+        "start": 541.54,
+        "end": 546.54,
+        "text": "9. And from a Goliath, Chandigarh, Kochi, Indore will compete with you.",
+        "words": []
+      },
+      {
+        "id": 97,
+        "start": 546.54,
+        "end": 552.54,
+        "text": "9. And from a Glasgow, from a Singapore, from a Dubai, from a Amsterdam.",
+        "words": []
+      },
+      {
+        "id": 98,
+        "start": 552.54,
+        "end": 563.15,
+        "text": "9. What does it mean for you?",
+        "words": []
+      },
+      {
+        "id": 99,
+        "start": 563.15,
+        "end": 567.95,
+        "text": "9. I am in my college. I don't mean anything anymore.",
+        "words": []
+      },
+      {
+        "id": 100,
+        "start": 570.64,
+        "end": 571.64,
+        "text": "9. Your competition is global.",
+        "words": []
+      },
+      {
+        "id": 101,
+        "start": 573.82,
+        "end": 577.82,
+        "text": "9. It also means that your communication now needs to travel globally.",
+        "words": []
+      },
+      {
+        "id": 102,
+        "start": 577.82,
+        "end": 579.82,
+        "text": "9. English is important.",
+        "words": []
+      },
+      {
+        "id": 103,
+        "start": 579.82,
+        "end": 588.62,
+        "text": "9. You need to be strong in your domain.",
+        "words": []
+      },
+      {
+        "id": 104,
+        "start": 588.62,
+        "end": 595.17,
+        "text": "9. A digital presence is important.",
+        "words": []
+      },
+      {
+        "id": 105,
+        "start": 595.17,
+        "end": 597.17,
+        "text": "9. Probability, 65% to 70%.",
+        "words": []
+      },
+      {
+        "id": 106,
+        "start": 597.17,
+        "end": 607.39,
+        "text": "9. Number 7, trust, compliance or security jobs will explode.",
+        "words": []
+      },
+      {
+        "id": 107,
+        "start": 607.39,
+        "end": 618.37,
+        "text": "9. My prediction is that, just like AI will scale, they will be more and more need for trust-based jobs, compliance-based jobs and security-based jobs.",
+        "words": []
+      },
+      {
+        "id": 108,
+        "start": 622.41,
+        "end": 626.41,
+        "text": "9. Because every AI evolution has a red flag to create.",
+        "words": []
+      },
+      {
+        "id": 109,
+        "start": 626.41,
+        "end": 630.41,
+        "text": "9. It is in the government, 9. It is in the data, 9. It is in the privacy norms.",
+        "words": []
+      },
+      {
+        "id": 110,
+        "start": 630.41,
+        "end": 635.41,
+        "text": "9. And that is bound to bring in a new layer of jobs in this country.",
+        "words": []
+      },
+      {
+        "id": 111,
+        "start": 635.41,
+        "end": 650.37,
+        "text": "9. What are your jobs?",
+        "words": []
+      },
+      {
+        "id": 112,
+        "start": 650.37,
+        "end": 659.64,
+        "text": "9. Risk analyst, compliance associate, information security associate, policy researcher,",
+        "words": []
+      },
+      {
+        "id": 113,
+        "start": 659.64,
+        "end": 665.56,
+        "text": "9. Policy researcher, trust and safety analyst.",
+        "words": []
+      },
+      {
+        "id": 114,
+        "start": 665.56,
+        "end": 675.85,
+        "text": "9. In 2016, people who understand tech and tech surrounding rules will rise.",
+        "words": []
+      },
+      {
+        "id": 115,
+        "start": 675.85,
+        "end": 682.56,
+        "text": "9. Probability, 60% to 65%.",
+        "words": []
+      },
+      {
+        "id": 116,
+        "start": 682.56,
+        "end": 691.94,
+        "text": "9. Where there will be a hybrid, women will gain employment.",
+        "words": []
+      },
+      {
+        "id": 117,
+        "start": 691.94,
+        "end": 714.5,
+        "text": "9. Data shows that women workforce and hybrid environments have really prospered together.",
+        "words": []
+      },
+      {
+        "id": 118,
+        "start": 714.5,
+        "end": 718.5,
+        "text": "9. And where there are knowledge workers, I have provided hybrid opportunities.",
+        "words": []
+      },
+      {
+        "id": 119,
+        "start": 718.5,
+        "end": 722.5,
+        "text": "9. Women have become a very strong contributor to the company's success.",
+        "words": []
+      },
+      {
+        "id": 120,
+        "start": 722.5,
+        "end": 724.5,
+        "text": "And profits.",
+        "words": []
+      },
+      {
+        "id": 121,
+        "start": 831.76,
+        "end": 839.04,
+        "text": "And my prediction is that women will actually see faster growth in such setups than they have seen pre-COVID.",
+        "words": []
+      },
+      {
+        "id": 122,
+        "start": 839.04,
+        "end": 845.84,
+        "text": "Probability, 60%.",
+        "words": []
+      },
+      {
+        "id": 123,
+        "start": 845.84,
+        "end": 849.84,
+        "text": "9. Continuous learning of your job will become a necessity.",
+        "words": []
+      },
+      {
+        "id": 124,
+        "start": 849.84,
+        "end": 851.84,
+        "text": "It is not a nice to have any more.",
+        "words": []
+      },
+      {
+        "id": 125,
+        "start": 851.84,
+        "end": 856.14,
+        "text": "Companies will invest in your training.",
+        "words": []
+      },
+      {
+        "id": 126,
+        "start": 856.14,
+        "end": 859.14,
+        "text": "You will have to invest in your personal growth as well.",
+        "words": []
+      },
+      {
+        "id": 127,
+        "start": 859.14,
+        "end": 863.14,
+        "text": "And you will have to make sure that your job will not become redundant.",
+        "words": []
+      },
+      {
+        "id": 128,
+        "start": 867.66,
+        "end": 869.66,
+        "text": "9. In 2016, there is a simple rule.",
+        "words": []
+      },
+      {
+        "id": 129,
+        "start": 869.66,
+        "end": 881.01,
+        "text": "That in 2026, I have to become better than who I was at 2025 for the same role.",
+        "words": []
+      },
+      {
+        "id": 130,
+        "start": 881.01,
+        "end": 883.97,
+        "text": "9. A learning log.",
+        "words": []
+      },
+      {
+        "id": 131,
+        "start": 883.97,
+        "end": 885.97,
+        "text": "9. A learning log.",
+        "words": []
+      },
+      {
+        "id": 132,
+        "start": 885.97,
+        "end": 886.97,
+        "text": "9. A concept course completed.",
+        "words": []
+      },
+      {
+        "id": 133,
+        "start": 886.97,
+        "end": 888.97,
+        "text": "9. A skill seeking.",
+        "words": []
+      },
+      {
+        "id": 134,
+        "start": 888.97,
+        "end": 889.97,
+        "text": "9. How to apply it.",
+        "words": []
+      },
+      {
+        "id": 135,
+        "start": 889.97,
+        "end": 891.97,
+        "text": "9. So that you remain accountable to your own self.",
+        "words": []
+      },
+      {
+        "id": 136,
+        "start": 891.97,
+        "end": 901.15,
+        "text": "9. And if your current company is not investing in your learning,",
+        "words": []
+      },
+      {
+        "id": 137,
+        "start": 901.15,
+        "end": 903.15,
+        "text": "then that's a red flag.",
+        "words": []
+      },
+      {
+        "id": 138,
+        "start": 903.15,
+        "end": 905.15,
+        "text": "9. In 18 months, exit.",
+        "words": []
+      },
+      {
+        "id": 139,
+        "start": 905.15,
+        "end": 908.24,
+        "text": "9. Probability is 80%.",
+        "words": []
+      },
+      {
+        "id": 140,
+        "start": 912.54,
+        "end": 914.54,
+        "text": "10. Power and money.",
+        "words": []
+      },
+      {
+        "id": 141,
+        "start": 914.54,
+        "end": 917.54,
+        "text": "10. Will shift to the 10% super contributors.",
+        "words": []
+      },
+      {
+        "id": 142,
+        "start": 917.54,
+        "end": 922.29,
+        "text": "9. AI and automation.",
+        "words": []
+      },
+      {
+        "id": 143,
+        "start": 922.29,
+        "end": 927.29,
+        "text": "9. People's talent and skill will be very visible.",
+        "words": []
+      },
+      {
+        "id": 144,
+        "start": 927.29,
+        "end": 931.29,
+        "text": "9. Those who were not doing anything, will not do anything to AI.",
+        "words": []
+      },
+      {
+        "id": 145,
+        "start": 931.29,
+        "end": 935.29,
+        "text": "9. Those who were doing a lot to AI, will go to different companies.",
+        "words": []
+      },
+      {
+        "id": 146,
+        "start": 935.29,
+        "end": 943.15,
+        "text": "9. And companies will reward such people more and more.",
+        "words": []
+      },
+      {
+        "id": 147,
+        "start": 943.15,
+        "end": 948.85,
+        "text": "9. My prediction is that the income distribution",
+        "words": []
+      },
+      {
+        "id": 148,
+        "start": 948.85,
+        "end": 953.85,
+        "text": "between the top performers and the average performers of a company",
+        "words": []
+      },
+      {
+        "id": 149,
+        "start": 953.85,
+        "end": 955.85,
+        "text": "will become really wide.",
+        "words": []
+      },
+      {
+        "id": 150,
+        "start": 955.85,
+        "end": 959.85,
+        "text": "Perhaps the widest we have ever seen in corporate history.",
+        "words": []
+      },
+      {
+        "id": 151,
+        "start": 959.85,
+        "end": 968.76,
+        "text": "9. Now what can you do about it?",
+        "words": []
+      },
+      {
+        "id": 152,
+        "start": 968.76,
+        "end": 970.76,
+        "text": "9. Now what can you do about it?",
+        "words": []
+      },
+      {
+        "id": 153,
+        "start": 970.76,
+        "end": 972.76,
+        "text": "9. No such skill, no such function.",
+        "words": []
+      },
+      {
+        "id": 154,
+        "start": 972.76,
+        "end": 978.52,
+        "text": "9. In which you can become a rock star from 5 to 7 years.",
+        "words": []
+      },
+      {
+        "id": 155,
+        "start": 978.52,
+        "end": 980.52,
+        "text": "9. And build systems around it.",
+        "words": []
+      },
+      {
+        "id": 156,
+        "start": 980.52,
+        "end": 981.52,
+        "text": "Invest in your growth around it.",
+        "words": []
+      },
+      {
+        "id": 157,
+        "start": 981.52,
+        "end": 987.5,
+        "text": "Build skills around it. Get exposure around it.",
+        "words": []
+      },
+      {
+        "id": 158,
+        "start": 987.5,
+        "end": 990.5,
+        "text": "9. And seek hard feedback. Where are your dreams?",
+        "words": []
+      },
+      {
+        "id": 159,
+        "start": 990.5,
+        "end": 992.5,
+        "text": "How can you defeat them?",
+        "words": []
+      },
+      {
+        "id": 160,
+        "start": 992.5,
+        "end": 997.57,
+        "text": "9. My prediction for this 70%.",
+        "words": []
+      },
+      {
+        "id": 161,
+        "start": 997.57,
+        "end": 1011.94,
+        "text": "9. This is my 10 predictions for 2026 job market.",
+        "words": []
+      },
+      {
+        "id": 162,
+        "start": 1011.94,
+        "end": 1014.94,
+        "text": "9. For this I will tell you three things.",
+        "words": []
+      },
+      {
+        "id": 163,
+        "start": 1014.94,
+        "end": 1019.27,
+        "text": "9. Number 1.",
+        "words": []
+      },
+      {
+        "id": 164,
+        "start": 1019.27,
+        "end": 1023.3,
+        "text": "9. Number 1. Online display.",
+        "words": []
+      },
+      {
+        "id": 165,
+        "start": 1023.3,
+        "end": 1025.3,
+        "text": "9. Number 1. Public body of work.",
+        "words": []
+      },
+      {
+        "id": 166,
+        "start": 1025.3,
+        "end": 1030.3,
+        "text": "9. We are now in an era where every person is trying to make a brand.",
+        "words": []
+      },
+      {
+        "id": 167,
+        "start": 1030.3,
+        "end": 1032.3,
+        "text": "9. You also have to become that person.",
+        "words": []
+      },
+      {
+        "id": 168,
+        "start": 1033.3,
+        "end": 1035.3,
+        "text": "9. But sharing it on LinkedIn.",
+        "words": []
+      },
+      {
+        "id": 169,
+        "start": 1035.3,
+        "end": 1036.3,
+        "text": "10. Sharing it on news letter.",
+        "words": []
+      },
+      {
+        "id": 170,
+        "start": 1036.3,
+        "end": 1037.3,
+        "text": "10. Sharing it on Twitter.",
+        "words": []
+      },
+      {
+        "id": 171,
+        "start": 1037.3,
+        "end": 1041.3,
+        "text": "10. Is just as important as sharing it with your manager.",
+        "words": []
+      },
+      {
+        "id": 172,
+        "start": 1042.99,
+        "end": 1044.99,
+        "text": "10. Number 2. Shape your environment.",
+        "words": []
+      },
+      {
+        "id": 173,
+        "start": 1044.99,
+        "end": 1045.99,
+        "text": "10. What are your people with you?",
+        "words": []
+      },
+      {
+        "id": 174,
+        "start": 1045.99,
+        "end": 1047.99,
+        "text": "10. What are they talking about?",
+        "words": []
+      },
+      {
+        "id": 175,
+        "start": 1047.99,
+        "end": 1048.99,
+        "text": "10. I will leave the break.",
+        "words": []
+      },
+      {
+        "id": 176,
+        "start": 1048.99,
+        "end": 1049.99,
+        "text": "10. I will leave the break.",
+        "words": []
+      },
+      {
+        "id": 177,
+        "start": 1049.99,
+        "end": 1050.99,
+        "text": "10. I will leave the break.",
+        "words": []
+      },
+      {
+        "id": 178,
+        "start": 1050.99,
+        "end": 1052.99,
+        "text": "10. And they are elevating your game.",
+        "words": []
+      },
+      {
+        "id": 179,
+        "start": 1052.99,
+        "end": 1053.99,
+        "text": "10. Teaching you new skills.",
+        "words": []
+      },
+      {
+        "id": 180,
+        "start": 1053.99,
+        "end": 1056.99,
+        "text": "10. Making you into a better version of who you are.",
+        "words": []
+      },
+      {
+        "id": 181,
+        "start": 1056.99,
+        "end": 1059.99,
+        "text": "10. Be sensitive to who you surround yourself with.",
+        "words": []
+      },
+      {
+        "id": 182,
+        "start": 1059.99,
+        "end": 1064.46,
+        "text": "10. Add one income stream.",
+        "words": []
+      },
+      {
+        "id": 183,
+        "start": 1064.46,
+        "end": 1065.46,
+        "text": "10. Anything.",
+        "words": []
+      },
+      {
+        "id": 184,
+        "start": 1065.46,
+        "end": 1068.46,
+        "text": "10. But something which is a billable skill outside of your day job.",
+        "words": []
+      },
+      {
+        "id": 185,
+        "start": 1068.46,
+        "end": 1073.46,
+        "text": "10. So that you don't know what you can do outside of your work.",
+        "words": []
+      },
+      {
+        "id": 186,
+        "start": 1073.46,
+        "end": 1075.46,
+        "text": "10. That you can rely on tomorrow.",
+        "words": []
+      },
+      {
+        "id": 187,
+        "start": 1075.46,
+        "end": 1078.65,
+        "text": "10. I wish you the best for 2026.",
+        "words": []
+      },
+      {
+        "id": 188,
+        "start": 1078.65,
+        "end": 1081.65,
+        "text": "10. I am Kurbari Kooka, Fischal, Kareer's YouTube Channel.",
+        "words": []
+      },
+      {
+        "id": 189,
+        "start": 1081.65,
+        "end": 1082.65,
+        "text": "10. And I am Kurbari Kook.",
+        "words": []
+      },
+      {
+        "id": 190,
+        "start": 1082.65,
+        "end": 1084.65,
+        "text": "10. Signing off.",
+        "words": []
+      }
+    ]
+  },
+  "58abdce0-fc7c-4013-b7e4-a4bf904a44ef": {
+    "id": "58abdce0-fc7c-4013-b7e4-a4bf904a44ef",
+    "status": "completed",
+    "progress": 100,
+    "filename": "2026_job_predictions.wav",
+    "audio_path": "uploads\\58abdce0-fc7c-4013-b7e4-a4bf904a44ef_2026_job_predictions.wav",
+    "model_size": "base",
+    "language": "hi",
+    "task": "translate",
+    "file_hash": "307f03eabe91cbdebea9cc228dc027b392c9566a5dee2fd3ca0920d9c47239a2",
+    "stage": "completed",
+    "message": "Transcription completed! (AI-corrected)",
+    "srt_path": "outputs\\58abdce0-fc7c-4013-b7e4-a4bf904a44ef.srt",
+    "metadata": {
+      "language": "hi",
+      "language_probability": 1,
+      "duration": 1087.34,
+      "processing_time": 227.360276222229,
+      "speed_ratio": 4.782453725281368,
+      "segment_count": 197,
+      "claude_corrected": true
+    },
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.78,
+        "end": 19.7,
+        "text": "For the job market of 2016, we start with 10 predictions.",
+        "words": []
+      },
+      {
+        "id": 2,
+        "start": 19.7,
+        "end": 22.7,
+        "text": "1. Fresher market.",
+        "words": []
+      },
+      {
+        "id": 3,
+        "start": 22.7,
+        "end": 25.18,
+        "text": "2 will be there.",
+        "words": []
+      },
+      {
+        "id": 4,
+        "start": 25.18,
+        "end": 33.16,
+        "text": "1. Top Institutes. Top 10 to 20% freshers.",
+        "words": []
+      },
+      {
+        "id": 5,
+        "start": 33.16,
+        "end": 36.16,
+        "text": "Genies of salaries. Job opportunities.",
+        "words": []
+      },
+      {
+        "id": 6,
+        "start": 36.16,
+        "end": 38.16,
+        "text": "Placements will go through the roof.",
+        "words": []
+      },
+      {
+        "id": 7,
+        "start": 38.16,
+        "end": 42.47,
+        "text": "2. Medium.",
+        "words": []
+      },
+      {
+        "id": 8,
+        "start": 42.47,
+        "end": 44.47,
+        "text": "2. The average graduate.",
+        "words": []
+      },
+      {
+        "id": 9,
+        "start": 44.47,
+        "end": 54.55,
+        "text": "They will struggle to find good opportunities.",
+        "words": []
+      },
+      {
+        "id": 10,
+        "start": 54.55,
+        "end": 59.55,
+        "text": "2. Top Institutes. Record placements.",
+        "words": []
+      },
+      {
+        "id": 11,
+        "start": 59.55,
+        "end": 64.38,
+        "text": "3. I am so you name it.",
+        "words": []
+      },
+      {
+        "id": 12,
+        "start": 64.38,
+        "end": 68.38,
+        "text": "3. At the same time, bulk hiring in IT industry is collapsing.",
+        "words": []
+      },
+      {
+        "id": 13,
+        "start": 68.38,
+        "end": 84.84,
+        "text": "3. The average graduate.",
+        "words": []
+      },
+      {
+        "id": 14,
+        "start": 84.84,
+        "end": 88.84,
+        "text": "3. They cannot rely on placements and on colleges getting the best offers.",
+        "words": []
+      },
+      {
+        "id": 15,
+        "start": 88.84,
+        "end": 92.84,
+        "text": "3. They will have to go out and create opportunities for them.",
+        "words": []
+      },
+      {
+        "id": 16,
+        "start": 92.84,
+        "end": 94.84,
+        "text": "3. They will go through internships.",
+        "words": []
+      },
+      {
+        "id": 17,
+        "start": 94.84,
+        "end": 97.84,
+        "text": "3. They will go through portfolios.",
+        "words": []
+      },
+      {
+        "id": 18,
+        "start": 97.84,
+        "end": 99.84,
+        "text": "3. You have to be ready for this reality.",
+        "words": []
+      },
+      {
+        "id": 19,
+        "start": 99.84,
+        "end": 103.84,
+        "text": "4. I will assign about 80%.",
+        "words": []
+      },
+      {
+        "id": 20,
+        "start": 103.84,
+        "end": 111.02,
+        "text": "2. AI Fluency.",
+        "words": []
+      },
+      {
+        "id": 21,
+        "start": 111.02,
+        "end": 113.02,
+        "text": "1. Hygiene factor.",
+        "words": []
+      },
+      {
+        "id": 22,
+        "start": 113.02,
+        "end": 115.02,
+        "text": "1. No bonus factor.",
+        "words": []
+      },
+      {
+        "id": 23,
+        "start": 115.02,
+        "end": 118.02,
+        "text": "4. Every company expects you to work with AI tools.",
+        "words": []
+      },
+      {
+        "id": 24,
+        "start": 118.02,
+        "end": 123.02,
+        "text": "4. Every company expects you to work better and better.",
+        "words": []
+      },
+      {
+        "id": 25,
+        "start": 123.02,
+        "end": 124.02,
+        "text": "4. Using AI.",
+        "words": []
+      },
+      {
+        "id": 26,
+        "start": 124.02,
+        "end": 126.02,
+        "text": "4. This is not a job requirement.",
+        "words": []
+      },
+      {
+        "id": 27,
+        "start": 126.02,
+        "end": 128.02,
+        "text": "4. This is a necessity.",
+        "words": []
+      },
+      {
+        "id": 28,
+        "start": 128.02,
+        "end": 132.02,
+        "text": "4. In 2016, it is going to become even more mainstream.",
+        "words": []
+      },
+      {
+        "id": 29,
+        "start": 132.02,
+        "end": 137.03,
+        "text": "4. Why should I say this?",
+        "words": []
+      },
+      {
+        "id": 30,
+        "start": 137.03,
+        "end": 141.03,
+        "text": "4. It has already reported that 50% of the working professions in India",
+        "words": []
+      },
+      {
+        "id": 31,
+        "start": 141.03,
+        "end": 146.5,
+        "text": "are going through some form of AI training or not.",
+        "words": []
+      },
+      {
+        "id": 32,
+        "start": 146.5,
+        "end": 170.06,
+        "text": "4. AI hiring growth is 30% in India, which is one of the highest in the world.",
+        "words": []
+      },
+      {
+        "id": 33,
+        "start": 170.06,
+        "end": 172.06,
+        "text": "4. What does it mean?",
+        "words": []
+      },
+      {
+        "id": 34,
+        "start": 172.06,
+        "end": 183.85,
+        "text": "4. You can claim that I use AI for writing, presentations, email drafting, daily basis.",
+        "words": []
+      },
+      {
+        "id": 35,
+        "start": 183.85,
+        "end": 187.85,
+        "text": "4. I use AI for work flows.",
+        "words": []
+      },
+      {
+        "id": 36,
+        "start": 187.85,
+        "end": 199.1,
+        "text": "4. I know that I can do better with AI.",
+        "words": []
+      },
+      {
+        "id": 37,
+        "start": 199.1,
+        "end": 216.99,
+        "text": "4. I will assign about 85% to 90%.",
+        "words": []
+      },
+      {
+        "id": 38,
+        "start": 216.99,
+        "end": 219.99,
+        "text": "3. Degrees of importance.",
+        "words": []
+      },
+      {
+        "id": 39,
+        "start": 219.99,
+        "end": 226.38,
+        "text": "4. Portfolio is important.",
+        "words": []
+      },
+      {
+        "id": 40,
+        "start": 226.38,
+        "end": 228.38,
+        "text": "4. Many companies are doing this.",
+        "words": []
+      },
+      {
+        "id": 41,
+        "start": 228.38,
+        "end": 231.38,
+        "text": "4. Colleges' name, degree, doesn't matter.",
+        "words": []
+      },
+      {
+        "id": 42,
+        "start": 231.38,
+        "end": 233.38,
+        "text": "4. What does student learn?",
+        "words": []
+      },
+      {
+        "id": 43,
+        "start": 233.38,
+        "end": 241.34,
+        "text": "4. What does student learn?",
+        "words": []
+      },
+      {
+        "id": 44,
+        "start": 241.34,
+        "end": 244.34,
+        "text": "4. Is it applied in real life?",
+        "words": []
+      },
+      {
+        "id": 45,
+        "start": 244.34,
+        "end": 249.62,
+        "text": "4. For a coder, the profile of his GitHub is more important than his degree.",
+        "words": []
+      },
+      {
+        "id": 46,
+        "start": 249.62,
+        "end": 253.62,
+        "text": "4. For a designer, the profile of his Behance is more important than his degree.",
+        "words": []
+      },
+      {
+        "id": 47,
+        "start": 253.62,
+        "end": 257.62,
+        "text": "4. For a content writer, the profile of his medium is more important than his degree.",
+        "words": []
+      },
+      {
+        "id": 48,
+        "start": 257.62,
+        "end": 269.99,
+        "text": "4. Irrespective of which profession you are in,",
+        "words": []
+      },
+      {
+        "id": 49,
+        "start": 269.99,
+        "end": 270.99,
+        "text": "4. A body of work is made.",
+        "words": []
+      },
+      {
+        "id": 50,
+        "start": 270.99,
+        "end": 273.99,
+        "text": "4. If you are a white, collared, professional",
+        "words": []
+      },
+      {
+        "id": 51,
+        "start": 273.99,
+        "end": 283.7,
+        "text": "4. If you are a knowledge worker, you have to make a portfolio.",
+        "words": []
+      },
+      {
+        "id": 52,
+        "start": 283.7,
+        "end": 287.7,
+        "text": "4. A body of work is made which will display publicly",
+        "words": []
+      },
+      {
+        "id": 53,
+        "start": 287.7,
+        "end": 292.7,
+        "text": "4. How much you know, how much you learn, how much you can contribute from day 1.",
+        "words": []
+      },
+      {
+        "id": 54,
+        "start": 292.7,
+        "end": 294.7,
+        "text": "5. I will assign this probability.",
+        "words": []
+      },
+      {
+        "id": 55,
+        "start": 294.7,
+        "end": 301.98,
+        "text": "7. 70% to 75%.",
+        "words": []
+      },
+      {
+        "id": 56,
+        "start": 301.98,
+        "end": 309.1,
+        "text": "4. I call it the Geekification of white collared jobs and multiple income streams.",
+        "words": []
+      },
+      {
+        "id": 57,
+        "start": 309.1,
+        "end": 321.43,
+        "text": "Basically, freelance economy is going to boom in 2026.",
+        "words": []
+      },
+      {
+        "id": 58,
+        "start": 321.43,
+        "end": 326.43,
+        "text": "9. Neti AI has predicted that in 2020, there are 7.7 million Geek workers.",
+        "words": []
+      },
+      {
+        "id": 59,
+        "start": 326.43,
+        "end": 331.43,
+        "text": "9. In 2013, there will be about 30 million Geek workers in this country.",
+        "words": []
+      },
+      {
+        "id": 60,
+        "start": 331.43,
+        "end": 339.42,
+        "text": "9. When you think about Geek workers, then don't think about delivery drivers.",
+        "words": []
+      },
+      {
+        "id": 61,
+        "start": 339.42,
+        "end": 341.42,
+        "text": "9. That's one part of it.",
+        "words": []
+      },
+      {
+        "id": 62,
+        "start": 341.42,
+        "end": 346.51,
+        "text": "9. Think, design, tech, content, consulting.",
+        "words": []
+      },
+      {
+        "id": 63,
+        "start": 346.51,
+        "end": 357.41,
+        "text": "9. Now what does it mean for you?",
+        "words": []
+      },
+      {
+        "id": 64,
+        "start": 357.41,
+        "end": 360.41,
+        "text": "9. Multiple income streams are important.",
+        "words": []
+      },
+      {
+        "id": 65,
+        "start": 360.41,
+        "end": 364.41,
+        "text": "9. With your day job, any kind of skill developed which can be billable.",
+        "words": []
+      },
+      {
+        "id": 66,
+        "start": 364.41,
+        "end": 366.41,
+        "text": "9. You can earn money through it.",
+        "words": []
+      },
+      {
+        "id": 67,
+        "start": 366.41,
+        "end": 371.64,
+        "text": "9. How do you get contracts?",
+        "words": []
+      },
+      {
+        "id": 68,
+        "start": 371.64,
+        "end": 374.64,
+        "text": "9. How do you get contracts?",
+        "words": []
+      },
+      {
+        "id": 69,
+        "start": 374.64,
+        "end": 375.64,
+        "text": "9. How do you get pricing?",
+        "words": []
+      },
+      {
+        "id": 70,
+        "start": 375.64,
+        "end": 377.64,
+        "text": "9. How do you get negotiation?",
+        "words": []
+      },
+      {
+        "id": 71,
+        "start": 377.64,
+        "end": 384.64,
+        "text": "9. In fact, this need is so evident that we launched a new course called the ultimate freelancing guide.",
+        "words": []
+      },
+      {
+        "id": 72,
+        "start": 384.64,
+        "end": 387.64,
+        "text": "9. Which will teach you step by step on how to become a freelancer.",
+        "words": []
+      },
+      {
+        "id": 73,
+        "start": 387.64,
+        "end": 394.64,
+        "text": "9. And that course has an option through the roof because people want to now see freelancing as a legit career.",
+        "words": []
+      },
+      {
+        "id": 74,
+        "start": 394.64,
+        "end": 403.49,
+        "text": "9. Not as an option.",
+        "words": []
+      },
+      {
+        "id": 75,
+        "start": 403.49,
+        "end": 405.49,
+        "text": "9. Its prediction is about 70%.",
+        "words": []
+      },
+      {
+        "id": 76,
+        "start": 405.49,
+        "end": 415.13,
+        "text": "9. No. 5. For knowledge work, hybrid will be the default. Everything else, come back to work.",
+        "words": []
+      },
+      {
+        "id": 77,
+        "start": 415.13,
+        "end": 421.47,
+        "text": "9. No. 5. For knowledge work, hybrid will be the default.",
+        "words": []
+      },
+      {
+        "id": 78,
+        "start": 421.47,
+        "end": 424.47,
+        "text": "9. For anything else, come back to office.",
+        "words": []
+      },
+      {
+        "id": 79,
+        "start": 424.47,
+        "end": 438.14,
+        "text": "9. Data will tell you that you already have 30% knowledge workers.",
+        "words": []
+      },
+      {
+        "id": 80,
+        "start": 438.14,
+        "end": 440.46,
+        "text": "9. It's a fully remote.",
+        "words": []
+      },
+      {
+        "id": 81,
+        "start": 440.46,
+        "end": 451.49,
+        "text": "9. And around 28% follow a hybrid model.",
+        "words": []
+      },
+      {
+        "id": 82,
+        "start": 451.49,
+        "end": 454.49,
+        "text": "9. So if the company wants a top talent, they will have to provide flexibility.",
+        "words": []
+      },
+      {
+        "id": 83,
+        "start": 454.49,
+        "end": 456.49,
+        "text": "9. Whether it is hybrid or fully remote.",
+        "words": []
+      },
+      {
+        "id": 84,
+        "start": 456.49,
+        "end": 458.49,
+        "text": "9. And that is here to stay.",
+        "words": []
+      },
+      {
+        "id": 85,
+        "start": 458.49,
+        "end": 463.62,
+        "text": "9. Now what does it mean for you?",
+        "words": []
+      },
+      {
+        "id": 86,
+        "start": 463.62,
+        "end": 467.62,
+        "text": "9. It means that in hybrid, communication becomes far more important.",
+        "words": []
+      },
+      {
+        "id": 87,
+        "start": 467.62,
+        "end": 472.9,
+        "text": "9. Sharing progress reports become far more important.",
+        "words": []
+      },
+      {
+        "id": 88,
+        "start": 472.9,
+        "end": 482.06,
+        "text": "9. Keeping your calendar clean and actually maintaining a calendar becomes far more important.",
+        "words": []
+      },
+      {
+        "id": 89,
+        "start": 482.06,
+        "end": 487.06,
+        "text": "9. So please get used to all of this and understand how remotely you can work.",
+        "words": []
+      },
+      {
+        "id": 90,
+        "start": 487.06,
+        "end": 492.47,
+        "text": "9. And despite remote, still maximize your quality.",
+        "words": []
+      },
+      {
+        "id": 91,
+        "start": 492.47,
+        "end": 494.47,
+        "text": "9. Web weather, for example, is fully remote.",
+        "words": []
+      },
+      {
+        "id": 92,
+        "start": 494.47,
+        "end": 497.47,
+        "text": "9. The people who work from all over the world.",
+        "words": []
+      },
+      {
+        "id": 93,
+        "start": 497.47,
+        "end": 499.47,
+        "text": "9. We don't have any office hours.",
+        "words": []
+      },
+      {
+        "id": 94,
+        "start": 499.47,
+        "end": 504.47,
+        "text": "9. We don't have any meetings and yet we come together to create a business that is serving.",
+        "words": []
+      },
+      {
+        "id": 95,
+        "start": 504.47,
+        "end": 510.47,
+        "text": "9. 500,000 students and 16 million followers on content.",
+        "words": []
+      },
+      {
+        "id": 96,
+        "start": 510.47,
+        "end": 518.85,
+        "text": "9. Its prediction, around 75%.",
+        "words": []
+      },
+      {
+        "id": 97,
+        "start": 518.85,
+        "end": 527.57,
+        "text": "9. Your competition will be global and tier 2, tier 3, India will be like this.",
+        "words": []
+      },
+      {
+        "id": 98,
+        "start": 527.57,
+        "end": 537.54,
+        "text": "9. In 2016, a fresh Delhi Mumbai Bangalore, Chennai, Hyderabad will graduate from Pune.",
+        "words": []
+      },
+      {
+        "id": 99,
+        "start": 537.54,
+        "end": 539.54,
+        "text": "9. Only and only.",
+        "words": []
+      },
+      {
+        "id": 100,
+        "start": 539.54,
+        "end": 541.54,
+        "text": "9. You don't compete with your own batch.",
+        "words": []
+      },
+      {
+        "id": 101,
+        "start": 541.54,
+        "end": 546.54,
+        "text": "9. Goalier, Chandigarh, Kochi, Indore will compete with you.",
+        "words": []
+      },
+      {
+        "id": 102,
+        "start": 546.54,
+        "end": 548.54,
+        "text": "9. And a glass go.",
+        "words": []
+      },
+      {
+        "id": 103,
+        "start": 548.54,
+        "end": 552.54,
+        "text": "9. From Singapore, Dubai, Amsterdam will compete with you.",
+        "words": []
+      },
+      {
+        "id": 104,
+        "start": 552.54,
+        "end": 563.15,
+        "text": "9. What does it mean for you?",
+        "words": []
+      },
+      {
+        "id": 105,
+        "start": 563.15,
+        "end": 567.95,
+        "text": "9. I am in my college. I don't mean anything anymore.",
+        "words": []
+      },
+      {
+        "id": 106,
+        "start": 570.64,
+        "end": 571.64,
+        "text": "9. Your competition is global.",
+        "words": []
+      },
+      {
+        "id": 107,
+        "start": 573.82,
+        "end": 577.82,
+        "text": "9. It also means that your communication now needs to travel globally.",
+        "words": []
+      },
+      {
+        "id": 108,
+        "start": 577.82,
+        "end": 579.82,
+        "text": "9. English is important.",
+        "words": []
+      },
+      {
+        "id": 109,
+        "start": 579.82,
+        "end": 588.62,
+        "text": "9. You need to be strong in your domain.",
+        "words": []
+      },
+      {
+        "id": 110,
+        "start": 588.62,
+        "end": 595.17,
+        "text": "9. You need to make a digital presence.",
+        "words": []
+      },
+      {
+        "id": 111,
+        "start": 595.17,
+        "end": 597.17,
+        "text": "9. Probability, 65% to 70%.",
+        "words": []
+      },
+      {
+        "id": 112,
+        "start": 597.17,
+        "end": 607.39,
+        "text": "9. Trust, compliance and security jobs will explode.",
+        "words": []
+      },
+      {
+        "id": 113,
+        "start": 607.39,
+        "end": 613.37,
+        "text": "9. My prediction is that, like AI will scale,",
+        "words": []
+      },
+      {
+        "id": 114,
+        "start": 613.37,
+        "end": 618.37,
+        "text": "9. There will be more and more need for trust-based jobs, compliance-based jobs and security-based jobs.",
+        "words": []
+      },
+      {
+        "id": 115,
+        "start": 622.41,
+        "end": 626.41,
+        "text": "9. Because every AI evolution has a red flag.",
+        "words": []
+      },
+      {
+        "id": 116,
+        "start": 626.41,
+        "end": 630.41,
+        "text": "9. It is in the government, 9. It is in the data, 9. It is in the privacy norms.",
+        "words": []
+      },
+      {
+        "id": 117,
+        "start": 630.41,
+        "end": 635.41,
+        "text": "9. And that is bound to bring in a new layer of jobs in this country.",
+        "words": []
+      },
+      {
+        "id": 118,
+        "start": 635.41,
+        "end": 650.37,
+        "text": "9. What are your jobs?",
+        "words": []
+      },
+      {
+        "id": 119,
+        "start": 650.37,
+        "end": 659.64,
+        "text": "9. Risk analyst, compliance associate, information security associate, policy researcher,",
+        "words": []
+      },
+      {
+        "id": 120,
+        "start": 659.64,
+        "end": 665.56,
+        "text": "9. Policy researcher, trust and safety analyst.",
+        "words": []
+      },
+      {
+        "id": 121,
+        "start": 665.56,
+        "end": 675.85,
+        "text": "9. In 2016, people who understand tech and tech surrounding rules will rise.",
+        "words": []
+      },
+      {
+        "id": 122,
+        "start": 675.85,
+        "end": 682.56,
+        "text": "9. Probability, 60% to 65%.",
+        "words": []
+      },
+      {
+        "id": 123,
+        "start": 682.56,
+        "end": 691.94,
+        "text": "9. Where there will be a hybrid, women will gain employment.",
+        "words": []
+      },
+      {
+        "id": 124,
+        "start": 691.94,
+        "end": 714.5,
+        "text": "9. Data shows that women workforce and hybrid environments have really prospered together.",
+        "words": []
+      },
+      {
+        "id": 125,
+        "start": 714.5,
+        "end": 718.5,
+        "text": "9. And where there are knowledge workers, I have provided hybrid opportunities.",
+        "words": []
+      },
+      {
+        "id": 126,
+        "start": 718.5,
+        "end": 722.5,
+        "text": "9. Women have become a very strong contributor to the company's success and growth.",
+        "words": []
+      },
+      {
+        "id": 127,
+        "start": 723.5,
+        "end": 839.04,
+        "text": "And my prediction is that women will actually see faster growth in such setups than they have seen pre-COVID.",
+        "words": []
+      },
+      {
+        "id": 128,
+        "start": 839.04,
+        "end": 845.84,
+        "text": "Probability, 60%.",
+        "words": []
+      },
+      {
+        "id": 129,
+        "start": 845.84,
+        "end": 849.84,
+        "text": "9. Continuous learning of your job will become a necessity.",
+        "words": []
+      },
+      {
+        "id": 130,
+        "start": 849.84,
+        "end": 851.84,
+        "text": "It is not a nice to have anymore.",
+        "words": []
+      },
+      {
+        "id": 131,
+        "start": 851.84,
+        "end": 856.14,
+        "text": "Companies will invest in your training.",
+        "words": []
+      },
+      {
+        "id": 132,
+        "start": 856.14,
+        "end": 859.14,
+        "text": "You will have to invest in your personal growth as well.",
+        "words": []
+      },
+      {
+        "id": 133,
+        "start": 859.14,
+        "end": 863.14,
+        "text": "And you will have to make sure that your job will not become redundant.",
+        "words": []
+      },
+      {
+        "id": 134,
+        "start": 867.66,
+        "end": 869.66,
+        "text": "So, in 2016, there is a simple rule.",
+        "words": []
+      },
+      {
+        "id": 135,
+        "start": 869.66,
+        "end": 881.01,
+        "text": "That in 2026, I have to become better than who I was at 2025 for the same role.",
+        "words": []
+      },
+      {
+        "id": 136,
+        "start": 881.01,
+        "end": 883.97,
+        "text": "9. A learning log.",
+        "words": []
+      },
+      {
+        "id": 137,
+        "start": 883.97,
+        "end": 885.97,
+        "text": "9. A learning log.",
+        "words": []
+      },
+      {
+        "id": 138,
+        "start": 885.97,
+        "end": 886.97,
+        "text": "9. A concept course completed.",
+        "words": []
+      },
+      {
+        "id": 139,
+        "start": 886.97,
+        "end": 888.97,
+        "text": "9. A skill seek.",
+        "words": []
+      },
+      {
+        "id": 140,
+        "start": 888.97,
+        "end": 889.97,
+        "text": "9. How to apply it.",
+        "words": []
+      },
+      {
+        "id": 141,
+        "start": 889.97,
+        "end": 891.97,
+        "text": "9. So that you remain accountable to your own self.",
+        "words": []
+      },
+      {
+        "id": 142,
+        "start": 891.97,
+        "end": 901.15,
+        "text": "And that's why if your current company is not investing in your learning,",
+        "words": []
+      },
+      {
+        "id": 143,
+        "start": 901.15,
+        "end": 903.15,
+        "text": "then that's a red flag.",
+        "words": []
+      },
+      {
+        "id": 144,
+        "start": 903.15,
+        "end": 905.15,
+        "text": "9. In 18 months, exit.",
+        "words": []
+      },
+      {
+        "id": 145,
+        "start": 905.15,
+        "end": 908.24,
+        "text": "Probability is 80%.",
+        "words": []
+      },
+      {
+        "id": 146,
+        "start": 912.54,
+        "end": 917.54,
+        "text": "And finally, number 10, power and money will shift to the 10% super contributors.",
+        "words": []
+      },
+      {
+        "id": 147,
+        "start": 917.54,
+        "end": 922.29,
+        "text": "A.I. and automation,",
+        "words": []
+      },
+      {
+        "id": 148,
+        "start": 922.29,
+        "end": 927.29,
+        "text": "people's talent and skill will be very visible.",
+        "words": []
+      },
+      {
+        "id": 149,
+        "start": 927.29,
+        "end": 931.29,
+        "text": "Those who were not doing anything, they will not do anything to A.I.",
+        "words": []
+      },
+      {
+        "id": 150,
+        "start": 931.29,
+        "end": 933.29,
+        "text": "Those who were doing a lot to A.I.",
+        "words": []
+      },
+      {
+        "id": 151,
+        "start": 933.29,
+        "end": 935.29,
+        "text": "will go to other companies.",
+        "words": []
+      },
+      {
+        "id": 152,
+        "start": 935.29,
+        "end": 945.85,
+        "text": "And companies will reward such people more and more.",
+        "words": []
+      },
+      {
+        "id": 153,
+        "start": 945.85,
+        "end": 949.85,
+        "text": "My prediction is that the income distribution",
+        "words": []
+      },
+      {
+        "id": 154,
+        "start": 949.85,
+        "end": 953.85,
+        "text": "between the top performers and the average performers of a company",
+        "words": []
+      },
+      {
+        "id": 155,
+        "start": 953.85,
+        "end": 955.85,
+        "text": "will become really wide.",
+        "words": []
+      },
+      {
+        "id": 156,
+        "start": 955.85,
+        "end": 959.85,
+        "text": "Perhaps the widest we have ever seen in corporate history.",
+        "words": []
+      },
+      {
+        "id": 157,
+        "start": 959.85,
+        "end": 969.76,
+        "text": "Now what can you do about it?",
+        "words": []
+      },
+      {
+        "id": 158,
+        "start": 969.76,
+        "end": 971.76,
+        "text": "Now what can you do about it?",
+        "words": []
+      },
+      {
+        "id": 159,
+        "start": 971.76,
+        "end": 973.76,
+        "text": "There is no such skill, no such function.",
+        "words": []
+      },
+      {
+        "id": 160,
+        "start": 973.76,
+        "end": 978.52,
+        "text": "You can be a rock star from 5 to 7 years.",
+        "words": []
+      },
+      {
+        "id": 161,
+        "start": 978.52,
+        "end": 980.52,
+        "text": "And build systems around it.",
+        "words": []
+      },
+      {
+        "id": 162,
+        "start": 980.52,
+        "end": 982.52,
+        "text": "Invest in your growth around it.",
+        "words": []
+      },
+      {
+        "id": 163,
+        "start": 982.52,
+        "end": 987.5,
+        "text": "Build skills around it.",
+        "words": []
+      },
+      {
+        "id": 164,
+        "start": 987.5,
+        "end": 989.5,
+        "text": "Get exposure around it.",
+        "words": []
+      },
+      {
+        "id": 165,
+        "start": 989.5,
+        "end": 992.5,
+        "text": "How can you get it?",
+        "words": []
+      },
+      {
+        "id": 166,
+        "start": 992.5,
+        "end": 1008.94,
+        "text": "My prediction for this 70%.",
+        "words": []
+      },
+      {
+        "id": 167,
+        "start": 1008.94,
+        "end": 1011.94,
+        "text": "This is my 10 predictions for 2026 job market.",
+        "words": []
+      },
+      {
+        "id": 168,
+        "start": 1011.94,
+        "end": 1014.94,
+        "text": "For this, I will tell you three things.",
+        "words": []
+      },
+      {
+        "id": 169,
+        "start": 1014.94,
+        "end": 1019.27,
+        "text": "Number 1.",
+        "words": []
+      },
+      {
+        "id": 170,
+        "start": 1019.27,
+        "end": 1021.3,
+        "text": "Number 1.",
+        "words": []
+      },
+      {
+        "id": 171,
+        "start": 1021.3,
+        "end": 1023.3,
+        "text": "Online display.",
+        "words": []
+      },
+      {
+        "id": 172,
+        "start": 1023.3,
+        "end": 1024.3,
+        "text": "Number 1.",
+        "words": []
+      },
+      {
+        "id": 173,
+        "start": 1024.3,
+        "end": 1026.3,
+        "text": "Public body of work.",
+        "words": []
+      },
+      {
+        "id": 174,
+        "start": 1026.3,
+        "end": 1030.3,
+        "text": "We are now in an era where every person trying to make their own brand.",
+        "words": []
+      },
+      {
+        "id": 175,
+        "start": 1030.3,
+        "end": 1033.3,
+        "text": "You also have to become that person.",
+        "words": []
+      },
+      {
+        "id": 176,
+        "start": 1033.3,
+        "end": 1035.3,
+        "text": "But sharing it on LinkedIn.",
+        "words": []
+      },
+      {
+        "id": 177,
+        "start": 1035.3,
+        "end": 1037.3,
+        "text": "Sharing it on our newsletter.",
+        "words": []
+      },
+      {
+        "id": 178,
+        "start": 1037.3,
+        "end": 1041.3,
+        "text": "Sharing it on Twitter is just as important as sharing it with your manager.",
+        "words": []
+      },
+      {
+        "id": 179,
+        "start": 1042.99,
+        "end": 1043.99,
+        "text": "Number 2.",
+        "words": []
+      },
+      {
+        "id": 180,
+        "start": 1043.99,
+        "end": 1044.99,
+        "text": "Shape your environment.",
+        "words": []
+      },
+      {
+        "id": 181,
+        "start": 1044.99,
+        "end": 1046.99,
+        "text": "Which people are with you?",
+        "words": []
+      },
+      {
+        "id": 182,
+        "start": 1046.99,
+        "end": 1050.99,
+        "text": "Do they keep talking about the lack of break?",
+        "words": []
+      },
+      {
+        "id": 183,
+        "start": 1050.99,
+        "end": 1052.99,
+        "text": "Or they are elevating your game.",
+        "words": []
+      },
+      {
+        "id": 184,
+        "start": 1052.99,
+        "end": 1053.99,
+        "text": "Teaching you new skills.",
+        "words": []
+      },
+      {
+        "id": 185,
+        "start": 1053.99,
+        "end": 1056.99,
+        "text": "Making you into a better version of who you are.",
+        "words": []
+      },
+      {
+        "id": 186,
+        "start": 1056.99,
+        "end": 1059.99,
+        "text": "Be sensitive to who you surround yourself with.",
+        "words": []
+      },
+      {
+        "id": 187,
+        "start": 1059.99,
+        "end": 1062.46,
+        "text": "Number 3.",
+        "words": []
+      },
+      {
+        "id": 188,
+        "start": 1062.46,
+        "end": 1064.46,
+        "text": "Add one income stream.",
+        "words": []
+      },
+      {
+        "id": 189,
+        "start": 1064.46,
+        "end": 1065.46,
+        "text": "Anything.",
+        "words": []
+      },
+      {
+        "id": 190,
+        "start": 1065.46,
+        "end": 1068.46,
+        "text": "But something which is a billable skill outside of your day job.",
+        "words": []
+      },
+      {
+        "id": 191,
+        "start": 1068.46,
+        "end": 1073.46,
+        "text": "So that you don't know what you can do outside of your work.",
+        "words": []
+      },
+      {
+        "id": 192,
+        "start": 1073.46,
+        "end": 1075.46,
+        "text": "That you can rely on tomorrow.",
+        "words": []
+      },
+      {
+        "id": 193,
+        "start": 1075.46,
+        "end": 1078.65,
+        "text": "I wish you the best for 2026.",
+        "words": []
+      },
+      {
+        "id": 194,
+        "start": 1078.65,
+        "end": 1079.65,
+        "text": "He is Ankurwari Kukha.",
+        "words": []
+      },
+      {
+        "id": 195,
+        "start": 1079.65,
+        "end": 1081.65,
+        "text": "He is a official career's YouTube channel.",
+        "words": []
+      },
+      {
+        "id": 196,
+        "start": 1081.65,
+        "end": 1083.65,
+        "text": "And I am Ankurwari Kukha.",
+        "words": []
+      },
+      {
+        "id": 197,
+        "start": 1083.65,
+        "end": 1084.65,
+        "text": "Signing off.",
+        "words": []
+      }
+    ]
+  },
+  "f074b9ff-894a-494d-98e3-a4f2965e627d": {
+    "id": "f074b9ff-894a-494d-98e3-a4f2965e627d",
+    "status": "completed",
+    "progress": 100,
+    "filename": "2026_job_predictions.wav",
+    "audio_path": "uploads\\f074b9ff-894a-494d-98e3-a4f2965e627d_2026_job_predictions.wav",
+    "model_size": "base",
+    "language": "hi",
+    "task": "translate",
+    "file_hash": "307f03eabe91cbdebea9cc228dc027b392c9566a5dee2fd3ca0920d9c47239a2",
+    "stage": "completed",
+    "message": "Transcription completed! (AI-corrected)",
+    "srt_path": "outputs\\f074b9ff-894a-494d-98e3-a4f2965e627d.srt",
+    "metadata": {
+      "language": "hi",
+      "language_probability": 1,
+      "duration": 1087.34,
+      "processing_time": 147.2415328025818,
+      "speed_ratio": 7.384737032436911,
+      "segment_count": 218,
+      "claude_corrected": true
+    },
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.78,
+        "end": 19.7,
+        "text": "For the job market of 2016, we start with 10 predictions.",
+        "words": []
+      },
+      {
+        "id": 2,
+        "start": 19.7,
+        "end": 22.7,
+        "text": "1. Fresher market.",
+        "words": []
+      },
+      {
+        "id": 3,
+        "start": 22.7,
+        "end": 25.18,
+        "text": "2 will be there.",
+        "words": []
+      },
+      {
+        "id": 4,
+        "start": 25.18,
+        "end": 33.16,
+        "text": "1. Top Institutes. Top 10 to 20% freshers.",
+        "words": []
+      },
+      {
+        "id": 5,
+        "start": 33.16,
+        "end": 36.16,
+        "text": "Genies of salaries. Job opportunities.",
+        "words": []
+      },
+      {
+        "id": 6,
+        "start": 36.16,
+        "end": 38.16,
+        "text": "Placements will go through the roof.",
+        "words": []
+      },
+      {
+        "id": 7,
+        "start": 38.16,
+        "end": 42.47,
+        "text": "2. Medium.",
+        "words": []
+      },
+      {
+        "id": 8,
+        "start": 42.47,
+        "end": 44.47,
+        "text": "2. The average graduate.",
+        "words": []
+      },
+      {
+        "id": 9,
+        "start": 44.47,
+        "end": 54.55,
+        "text": "They will struggle to find good opportunities.",
+        "words": []
+      },
+      {
+        "id": 10,
+        "start": 54.55,
+        "end": 59.55,
+        "text": "2. Top Institutes. Record placements.",
+        "words": []
+      },
+      {
+        "id": 11,
+        "start": 59.55,
+        "end": 64.38,
+        "text": "3. I am so you name it.",
+        "words": []
+      },
+      {
+        "id": 12,
+        "start": 64.38,
+        "end": 68.38,
+        "text": "3. At the same time, bulk hiring in IT industry is collapsing.",
+        "words": []
+      },
+      {
+        "id": 13,
+        "start": 68.38,
+        "end": 84.84,
+        "text": "3. The average graduate.",
+        "words": []
+      },
+      {
+        "id": 14,
+        "start": 84.84,
+        "end": 88.84,
+        "text": "3. They cannot rely on placements and on colleges getting the best offers.",
+        "words": []
+      },
+      {
+        "id": 15,
+        "start": 88.84,
+        "end": 92.84,
+        "text": "3. They will have to go out and create opportunities for them.",
+        "words": []
+      },
+      {
+        "id": 16,
+        "start": 92.84,
+        "end": 94.84,
+        "text": "3. They will go through internships.",
+        "words": []
+      },
+      {
+        "id": 17,
+        "start": 94.84,
+        "end": 97.84,
+        "text": "3. They will go through portfolios.",
+        "words": []
+      },
+      {
+        "id": 18,
+        "start": 97.84,
+        "end": 99.84,
+        "text": "3. You have to be ready for this reality.",
+        "words": []
+      },
+      {
+        "id": 19,
+        "start": 99.84,
+        "end": 103.84,
+        "text": "4. I will assign about 80%.",
+        "words": []
+      },
+      {
+        "id": 20,
+        "start": 103.84,
+        "end": 111.02,
+        "text": "2. AI Fluency.",
+        "words": []
+      },
+      {
+        "id": 21,
+        "start": 111.02,
+        "end": 113.02,
+        "text": "1. Hygiene factor.",
+        "words": []
+      },
+      {
+        "id": 22,
+        "start": 113.02,
+        "end": 115.02,
+        "text": "1. No bonus factor.",
+        "words": []
+      },
+      {
+        "id": 23,
+        "start": 115.02,
+        "end": 118.02,
+        "text": "4. Every company expects you to work with AI tools.",
+        "words": []
+      },
+      {
+        "id": 24,
+        "start": 118.02,
+        "end": 123.02,
+        "text": "4. Every company expects you to work better and better.",
+        "words": []
+      },
+      {
+        "id": 25,
+        "start": 123.02,
+        "end": 124.02,
+        "text": "4. Using AI.",
+        "words": []
+      },
+      {
+        "id": 26,
+        "start": 124.02,
+        "end": 126.02,
+        "text": "4. This is not a job requirement.",
+        "words": []
+      },
+      {
+        "id": 27,
+        "start": 126.02,
+        "end": 128.02,
+        "text": "4. This is a necessity.",
+        "words": []
+      },
+      {
+        "id": 28,
+        "start": 128.02,
+        "end": 132.02,
+        "text": "4. In 2016, it is going to become even more mainstream.",
+        "words": []
+      },
+      {
+        "id": 29,
+        "start": 132.02,
+        "end": 137.03,
+        "text": "4. Why should I say this?",
+        "words": []
+      },
+      {
+        "id": 30,
+        "start": 137.03,
+        "end": 141.03,
+        "text": "4. It has already reported that 50% of the working professions in India",
+        "words": []
+      },
+      {
+        "id": 31,
+        "start": 141.03,
+        "end": 146.5,
+        "text": "are going through some form of AI training or not.",
+        "words": []
+      },
+      {
+        "id": 32,
+        "start": 146.5,
+        "end": 170.06,
+        "text": "4. AI hiring growth is 30% in India, which is one of the highest in the world.",
+        "words": []
+      },
+      {
+        "id": 33,
+        "start": 170.06,
+        "end": 172.06,
+        "text": "4. What does it mean?",
+        "words": []
+      },
+      {
+        "id": 34,
+        "start": 172.06,
+        "end": 183.85,
+        "text": "4. You can claim that I use AI for writing, presentations, email drafting, daily basis.",
+        "words": []
+      },
+      {
+        "id": 35,
+        "start": 183.85,
+        "end": 187.85,
+        "text": "4. I use AI for work flows.",
+        "words": []
+      },
+      {
+        "id": 36,
+        "start": 187.85,
+        "end": 199.1,
+        "text": "4. I know that I can do better with AI.",
+        "words": []
+      },
+      {
+        "id": 37,
+        "start": 199.1,
+        "end": 216.99,
+        "text": "4. I will assign about 85% to 90%.",
+        "words": []
+      },
+      {
+        "id": 38,
+        "start": 216.99,
+        "end": 219.99,
+        "text": "3. Degrees of importance.",
+        "words": []
+      },
+      {
+        "id": 39,
+        "start": 219.99,
+        "end": 226.38,
+        "text": "4. Portfolio is important.",
+        "words": []
+      },
+      {
+        "id": 40,
+        "start": 226.38,
+        "end": 228.38,
+        "text": "4. Many companies are doing this.",
+        "words": []
+      },
+      {
+        "id": 41,
+        "start": 228.38,
+        "end": 231.38,
+        "text": "4. Colleges' name, degree, doesn't matter.",
+        "words": []
+      },
+      {
+        "id": 42,
+        "start": 231.38,
+        "end": 233.38,
+        "text": "4. What does student learn?",
+        "words": []
+      },
+      {
+        "id": 43,
+        "start": 233.38,
+        "end": 241.34,
+        "text": "4. What does student learn?",
+        "words": []
+      },
+      {
+        "id": 44,
+        "start": 241.34,
+        "end": 244.34,
+        "text": "4. Is it applied in real life?",
+        "words": []
+      },
+      {
+        "id": 45,
+        "start": 244.34,
+        "end": 249.62,
+        "text": "4. For a coder, the profile of his GitHub is more important than his degree.",
+        "words": []
+      },
+      {
+        "id": 46,
+        "start": 249.62,
+        "end": 253.62,
+        "text": "4. For a designer, the profile of his Behance is more important than his degree.",
+        "words": []
+      },
+      {
+        "id": 47,
+        "start": 253.62,
+        "end": 257.62,
+        "text": "4. For a content writer, the profile of his medium is more important than his degree.",
+        "words": []
+      },
+      {
+        "id": 48,
+        "start": 257.62,
+        "end": 269.99,
+        "text": "4. Irrespective of which profession you are in,",
+        "words": []
+      },
+      {
+        "id": 49,
+        "start": 269.99,
+        "end": 270.99,
+        "text": "4. A body of work is made.",
+        "words": []
+      },
+      {
+        "id": 50,
+        "start": 270.99,
+        "end": 273.99,
+        "text": "4. If you are a white, collared, professional",
+        "words": []
+      },
+      {
+        "id": 51,
+        "start": 273.99,
+        "end": 283.7,
+        "text": "4. If you are a knowledge worker, you have to make a portfolio.",
+        "words": []
+      },
+      {
+        "id": 52,
+        "start": 283.7,
+        "end": 287.7,
+        "text": "4. A body of work is made which will display publicly",
+        "words": []
+      },
+      {
+        "id": 53,
+        "start": 287.7,
+        "end": 292.7,
+        "text": "4. How much you know, how much you learn, how much you can contribute from day 1.",
+        "words": []
+      },
+      {
+        "id": 54,
+        "start": 292.7,
+        "end": 294.7,
+        "text": "5. I will assign this probability.",
+        "words": []
+      },
+      {
+        "id": 55,
+        "start": 294.7,
+        "end": 301.98,
+        "text": "7. 70% to 75%.",
+        "words": []
+      },
+      {
+        "id": 56,
+        "start": 301.98,
+        "end": 309.1,
+        "text": "4. I call it the Geekification of white collared jobs and multiple income streams.",
+        "words": []
+      },
+      {
+        "id": 57,
+        "start": 309.1,
+        "end": 321.43,
+        "text": "Basically, freelance economy is going to boom in 2026.",
+        "words": []
+      },
+      {
+        "id": 58,
+        "start": 321.43,
+        "end": 326.43,
+        "text": "6. Nithi Ayyog has predicted that in 2020, there are 7.7 million Geek workers.",
+        "words": []
+      },
+      {
+        "id": 59,
+        "start": 326.43,
+        "end": 331.43,
+        "text": "6. In 2030, there will be about 30 million Geek workers in this country.",
+        "words": []
+      },
+      {
+        "id": 60,
+        "start": 331.43,
+        "end": 340.42,
+        "text": "6. And when you think of Geek workers, don't think of delivery drivers.",
+        "words": []
+      },
+      {
+        "id": 61,
+        "start": 340.42,
+        "end": 341.42,
+        "text": "6. That's one part of it.",
+        "words": []
+      },
+      {
+        "id": 62,
+        "start": 341.42,
+        "end": 346.51,
+        "text": "6. Think, design, tech, content, consulting.",
+        "words": []
+      },
+      {
+        "id": 63,
+        "start": 346.51,
+        "end": 357.41,
+        "text": "6. Now what does it mean for you?",
+        "words": []
+      },
+      {
+        "id": 64,
+        "start": 357.41,
+        "end": 360.41,
+        "text": "6. Multiple income streams are important to make.",
+        "words": []
+      },
+      {
+        "id": 65,
+        "start": 360.41,
+        "end": 364.41,
+        "text": "6. With your day job, any skill developed which can be billable",
+        "words": []
+      },
+      {
+        "id": 66,
+        "start": 364.41,
+        "end": 366.41,
+        "text": "that you can earn money through it.",
+        "words": []
+      },
+      {
+        "id": 67,
+        "start": 366.41,
+        "end": 371.64,
+        "text": "6. How do you get contracts?",
+        "words": []
+      },
+      {
+        "id": 68,
+        "start": 371.64,
+        "end": 374.64,
+        "text": "6. How do you get contracts?",
+        "words": []
+      },
+      {
+        "id": 69,
+        "start": 374.64,
+        "end": 375.64,
+        "text": "6. How do you get pricing?",
+        "words": []
+      },
+      {
+        "id": 70,
+        "start": 375.64,
+        "end": 377.64,
+        "text": "6. How do you get negotiation?",
+        "words": []
+      },
+      {
+        "id": 71,
+        "start": 377.64,
+        "end": 384.64,
+        "text": "6. In fact, this need is so evident that we launched a new course called the Ultimate Freelancing Guide.",
+        "words": []
+      },
+      {
+        "id": 72,
+        "start": 384.64,
+        "end": 387.64,
+        "text": "6. Which will teach you step by step on how to become a freelancer.",
+        "words": []
+      },
+      {
+        "id": 73,
+        "start": 387.64,
+        "end": 390.64,
+        "text": "6. And that course has an option through the roof.",
+        "words": []
+      },
+      {
+        "id": 74,
+        "start": 390.64,
+        "end": 403.49,
+        "text": "6. Because people want to now see freelancing as a legit career not as an option.",
+        "words": []
+      },
+      {
+        "id": 75,
+        "start": 403.49,
+        "end": 405.49,
+        "text": "6. Its prediction is about 70%.",
+        "words": []
+      },
+      {
+        "id": 76,
+        "start": 405.49,
+        "end": 414.13,
+        "text": "5. For knowledge work, hybrid will be the default.",
+        "words": []
+      },
+      {
+        "id": 77,
+        "start": 414.13,
+        "end": 417.44,
+        "text": "6. Everything else, come back to work.",
+        "words": []
+      },
+      {
+        "id": 78,
+        "start": 417.44,
+        "end": 421.47,
+        "text": "5. For knowledge work, hybrid will be the default.",
+        "words": []
+      },
+      {
+        "id": 79,
+        "start": 421.47,
+        "end": 424.47,
+        "text": "6. For anything else, come back to office.",
+        "words": []
+      },
+      {
+        "id": 80,
+        "start": 424.47,
+        "end": 438.14,
+        "text": "6. Data tells you that you already have 30% knowledge workers",
+        "words": []
+      },
+      {
+        "id": 81,
+        "start": 438.14,
+        "end": 440.46,
+        "text": "fully remote.",
+        "words": []
+      },
+      {
+        "id": 82,
+        "start": 440.46,
+        "end": 451.49,
+        "text": "6. And around 28% follow a hybrid model.",
+        "words": []
+      },
+      {
+        "id": 83,
+        "start": 451.49,
+        "end": 453.49,
+        "text": "6. So the company needs a top talent.",
+        "words": []
+      },
+      {
+        "id": 84,
+        "start": 453.49,
+        "end": 456.49,
+        "text": "6. If you don't want to provide a hybrid or fully remote.",
+        "words": []
+      },
+      {
+        "id": 85,
+        "start": 456.49,
+        "end": 458.49,
+        "text": "6. And that is here to stay.",
+        "words": []
+      },
+      {
+        "id": 86,
+        "start": 458.49,
+        "end": 463.62,
+        "text": "6. Now what does it mean for you?",
+        "words": []
+      },
+      {
+        "id": 87,
+        "start": 463.62,
+        "end": 467.62,
+        "text": "6. It means that in hybrid, communication becomes far more important.",
+        "words": []
+      },
+      {
+        "id": 88,
+        "start": 467.62,
+        "end": 472.9,
+        "text": "6. Sharing progress reports become far more important.",
+        "words": []
+      },
+      {
+        "id": 89,
+        "start": 472.9,
+        "end": 482.06,
+        "text": "6. Keeping your calendar clean and actually maintaining a calendar becomes far more important.",
+        "words": []
+      },
+      {
+        "id": 90,
+        "start": 482.06,
+        "end": 487.06,
+        "text": "6. So please get used to all of this and understand how you can remotely work.",
+        "words": []
+      },
+      {
+        "id": 91,
+        "start": 487.06,
+        "end": 492.47,
+        "text": "6. And despite remote, still maximize your quality.",
+        "words": []
+      },
+      {
+        "id": 92,
+        "start": 492.47,
+        "end": 494.47,
+        "text": "6. Web weather, for example, is fully remote.",
+        "words": []
+      },
+      {
+        "id": 93,
+        "start": 494.47,
+        "end": 497.47,
+        "text": "6. The people who work from 7 cities,",
+        "words": []
+      },
+      {
+        "id": 94,
+        "start": 497.47,
+        "end": 499.47,
+        "text": "6. We don't have any office hours,",
+        "words": []
+      },
+      {
+        "id": 95,
+        "start": 499.47,
+        "end": 502.47,
+        "text": "6. We don't have any meetings and yet we come together",
+        "words": []
+      },
+      {
+        "id": 96,
+        "start": 502.47,
+        "end": 506.47,
+        "text": "6. To create a business that is serving 500,000 students",
+        "words": []
+      },
+      {
+        "id": 97,
+        "start": 506.47,
+        "end": 510.47,
+        "text": "6. And 16 million followers on content.",
+        "words": []
+      },
+      {
+        "id": 98,
+        "start": 510.47,
+        "end": 518.85,
+        "text": "6. Its prediction, around 75%.",
+        "words": []
+      },
+      {
+        "id": 99,
+        "start": 518.85,
+        "end": 524.57,
+        "text": "6. Your competition will be global",
+        "words": []
+      },
+      {
+        "id": 100,
+        "start": 524.57,
+        "end": 527.57,
+        "text": "6. And tier 2, tier 3 will be India.",
+        "words": []
+      },
+      {
+        "id": 101,
+        "start": 527.57,
+        "end": 535.54,
+        "text": "6. In 2016, a fresh Delhi, Mumbai, Bangalore, Chennai,",
+        "words": []
+      },
+      {
+        "id": 102,
+        "start": 535.54,
+        "end": 537.54,
+        "text": "6. Graduates from Hyderabad,",
+        "words": []
+      },
+      {
+        "id": 103,
+        "start": 537.54,
+        "end": 541.54,
+        "text": "6. And only from their batch is not competing.",
+        "words": []
+      },
+      {
+        "id": 104,
+        "start": 541.54,
+        "end": 544.54,
+        "text": "6. And from a Goliath, from Chandigarh, from Kochi,",
+        "words": []
+      },
+      {
+        "id": 105,
+        "start": 544.54,
+        "end": 548.54,
+        "text": "6. And from Indore, and from Glasgow,",
+        "words": []
+      },
+      {
+        "id": 106,
+        "start": 548.54,
+        "end": 550.54,
+        "text": "6. And from Singapore, 6. And from Dubai,",
+        "words": []
+      },
+      {
+        "id": 107,
+        "start": 550.54,
+        "end": 562.15,
+        "text": "6. And from Amsterdam, 6. And also competing.",
+        "words": []
+      },
+      {
+        "id": 108,
+        "start": 562.15,
+        "end": 563.15,
+        "text": "6. What does it mean for you?",
+        "words": []
+      },
+      {
+        "id": 109,
+        "start": 563.15,
+        "end": 565.95,
+        "text": "6. I am best in my college.",
+        "words": []
+      },
+      {
+        "id": 110,
+        "start": 565.95,
+        "end": 567.95,
+        "text": "6. It doesn't mean anything anymore.",
+        "words": []
+      },
+      {
+        "id": 111,
+        "start": 570.64,
+        "end": 573.82,
+        "text": "6. Your competition is global.",
+        "words": []
+      },
+      {
+        "id": 112,
+        "start": 573.82,
+        "end": 577.82,
+        "text": "6. It also means that your communication now needs to travel globally.",
+        "words": []
+      },
+      {
+        "id": 113,
+        "start": 577.82,
+        "end": 579.82,
+        "text": "6. English is important.",
+        "words": []
+      },
+      {
+        "id": 114,
+        "start": 579.82,
+        "end": 588.62,
+        "text": "6. You need to be strong in your domain.",
+        "words": []
+      },
+      {
+        "id": 115,
+        "start": 588.62,
+        "end": 595.17,
+        "text": "6. A digital presence is important.",
+        "words": []
+      },
+      {
+        "id": 116,
+        "start": 595.17,
+        "end": 597.17,
+        "text": "6. Probability is 65 to 70%.",
+        "words": []
+      },
+      {
+        "id": 117,
+        "start": 597.17,
+        "end": 604.39,
+        "text": "7. Trust, compliance",
+        "words": []
+      },
+      {
+        "id": 118,
+        "start": 604.39,
+        "end": 607.39,
+        "text": "6. And security jobs will explode.",
+        "words": []
+      },
+      {
+        "id": 119,
+        "start": 607.39,
+        "end": 613.37,
+        "text": "6. My prediction is that, just like AI scale,",
+        "words": []
+      },
+      {
+        "id": 120,
+        "start": 613.37,
+        "end": 616.37,
+        "text": "6. There will be more and more need for trust-based jobs,",
+        "words": []
+      },
+      {
+        "id": 121,
+        "start": 616.37,
+        "end": 622.41,
+        "text": "6. Compliance-based jobs, and security-based jobs.",
+        "words": []
+      },
+      {
+        "id": 122,
+        "start": 622.41,
+        "end": 624.41,
+        "text": "6. Because every AI evolution,",
+        "words": []
+      },
+      {
+        "id": 123,
+        "start": 624.41,
+        "end": 627.41,
+        "text": "6. There is a red flag created in the government,",
+        "words": []
+      },
+      {
+        "id": 124,
+        "start": 627.41,
+        "end": 629.41,
+        "text": "6. There is data, there is privacy norms,",
+        "words": []
+      },
+      {
+        "id": 125,
+        "start": 629.41,
+        "end": 635.41,
+        "text": "6. And that is bound to bring in a new layer of jobs in this country.",
+        "words": []
+      },
+      {
+        "id": 126,
+        "start": 635.41,
+        "end": 650.37,
+        "text": "6. What are your jobs?",
+        "words": []
+      },
+      {
+        "id": 127,
+        "start": 650.37,
+        "end": 653.53,
+        "text": "6. Risk analyst, compliance associate,",
+        "words": []
+      },
+      {
+        "id": 128,
+        "start": 653.53,
+        "end": 657.1,
+        "text": "6. Information security associate,",
+        "words": []
+      },
+      {
+        "id": 129,
+        "start": 657.1,
+        "end": 659.64,
+        "text": "6. Policy researcher,",
+        "words": []
+      },
+      {
+        "id": 130,
+        "start": 659.64,
+        "end": 665.56,
+        "text": "6. Policy researcher, trust and safety analyst.",
+        "words": []
+      },
+      {
+        "id": 131,
+        "start": 665.56,
+        "end": 674.85,
+        "text": "6. In 2016, people think tech and tech surrounding rules",
+        "words": []
+      },
+      {
+        "id": 132,
+        "start": 674.85,
+        "end": 682.56,
+        "text": "6. Probability is 60 to 65%.",
+        "words": []
+      },
+      {
+        "id": 133,
+        "start": 682.56,
+        "end": 689.94,
+        "text": "8. Where there will be a hybrid,",
+        "words": []
+      },
+      {
+        "id": 134,
+        "start": 689.94,
+        "end": 691.94,
+        "text": "women will gain employment.",
+        "words": []
+      },
+      {
+        "id": 135,
+        "start": 691.94,
+        "end": 712.5,
+        "text": "9. Data shows that women, workforce and hybrid environments",
+        "words": []
+      },
+      {
+        "id": 136,
+        "start": 712.5,
+        "end": 714.5,
+        "text": "have really prospered together.",
+        "words": []
+      },
+      {
+        "id": 137,
+        "start": 714.5,
+        "end": 716.5,
+        "text": "9. And where there are knowledge workers,",
+        "words": []
+      },
+      {
+        "id": 138,
+        "start": 716.5,
+        "end": 718.5,
+        "text": "9. Hybrid opportunities are provided.",
+        "words": []
+      },
+      {
+        "id": 139,
+        "start": 718.5,
+        "end": 722.5,
+        "text": "9. Women have become a very strong contributor to the company's success",
+        "words": []
+      },
+      {
+        "id": 140,
+        "start": 722.5,
+        "end": 724.5,
+        "text": "and profits.",
+        "words": []
+      },
+      {
+        "id": 141,
+        "start": 831.76,
+        "end": 834.76,
+        "text": "And my prediction is that women will actually see faster growth",
+        "words": []
+      },
+      {
+        "id": 142,
+        "start": 834.76,
+        "end": 839.04,
+        "text": "in such setups than they have seen pre-COVID.",
+        "words": []
+      },
+      {
+        "id": 143,
+        "start": 839.04,
+        "end": 845.84,
+        "text": "Probability is 60%.",
+        "words": []
+      },
+      {
+        "id": 144,
+        "start": 845.84,
+        "end": 847.84,
+        "text": "9. Continuous learning.",
+        "words": []
+      },
+      {
+        "id": 145,
+        "start": 847.84,
+        "end": 849.84,
+        "text": "Your job's necessity will be made.",
+        "words": []
+      },
+      {
+        "id": 146,
+        "start": 849.84,
+        "end": 851.84,
+        "text": "It's not a nice to have anymore.",
+        "words": []
+      },
+      {
+        "id": 147,
+        "start": 851.84,
+        "end": 856.14,
+        "text": "Companies will invest in your training.",
+        "words": []
+      },
+      {
+        "id": 148,
+        "start": 856.14,
+        "end": 859.14,
+        "text": "You will have to invest in your personal growth as well.",
+        "words": []
+      },
+      {
+        "id": 149,
+        "start": 859.14,
+        "end": 861.14,
+        "text": "And you will have to make sure that your job",
+        "words": []
+      },
+      {
+        "id": 150,
+        "start": 861.14,
+        "end": 863.14,
+        "text": "doesn't become redundant.",
+        "words": []
+      },
+      {
+        "id": 151,
+        "start": 863.14,
+        "end": 869.66,
+        "text": "So, in 2016, there is a simple rule.",
+        "words": []
+      },
+      {
+        "id": 152,
+        "start": 869.66,
+        "end": 872.66,
+        "text": "That in 2026, I have to become better than",
+        "words": []
+      },
+      {
+        "id": 153,
+        "start": 872.66,
+        "end": 881.01,
+        "text": "who I was at 2025 for the same role.",
+        "words": []
+      },
+      {
+        "id": 154,
+        "start": 881.01,
+        "end": 883.97,
+        "text": "1. A learning log.",
+        "words": []
+      },
+      {
+        "id": 155,
+        "start": 883.97,
+        "end": 885.97,
+        "text": "1. A learning log.",
+        "words": []
+      },
+      {
+        "id": 156,
+        "start": 885.97,
+        "end": 887.97,
+        "text": "1. A concept is complete.",
+        "words": []
+      },
+      {
+        "id": 157,
+        "start": 887.97,
+        "end": 889.97,
+        "text": "1. A skill is learnt.",
+        "words": []
+      },
+      {
+        "id": 158,
+        "start": 889.97,
+        "end": 891.97,
+        "text": "1. So that you remain accountable to your own self.",
+        "words": []
+      },
+      {
+        "id": 159,
+        "start": 891.97,
+        "end": 901.15,
+        "text": "1. And if your current company is not investing in your learning",
+        "words": []
+      },
+      {
+        "id": 160,
+        "start": 901.15,
+        "end": 903.15,
+        "text": "then that's a red flag.",
+        "words": []
+      },
+      {
+        "id": 161,
+        "start": 903.15,
+        "end": 905.15,
+        "text": "12 to 12 months.",
+        "words": []
+      },
+      {
+        "id": 162,
+        "start": 905.15,
+        "end": 908.24,
+        "text": "Probability is 80%.",
+        "words": []
+      },
+      {
+        "id": 163,
+        "start": 908.24,
+        "end": 913.54,
+        "text": "And finally, number 10.",
+        "words": []
+      },
+      {
+        "id": 164,
+        "start": 913.54,
+        "end": 917.54,
+        "text": "Power and money will shift to the 10% super contributors.",
+        "words": []
+      },
+      {
+        "id": 165,
+        "start": 917.54,
+        "end": 922.29,
+        "text": "A.I. and automation.",
+        "words": []
+      },
+      {
+        "id": 166,
+        "start": 922.29,
+        "end": 927.29,
+        "text": "People's talent and skill will be very visible.",
+        "words": []
+      },
+      {
+        "id": 167,
+        "start": 927.29,
+        "end": 929.29,
+        "text": "Those who are not doing anything,",
+        "words": []
+      },
+      {
+        "id": 168,
+        "start": 929.29,
+        "end": 932.29,
+        "text": "they will not do anything to A.I.",
+        "words": []
+      },
+      {
+        "id": 169,
+        "start": 932.29,
+        "end": 935.29,
+        "text": "Those who are doing something, they will go to different companies.",
+        "words": []
+      },
+      {
+        "id": 170,
+        "start": 935.29,
+        "end": 945.85,
+        "text": "And companies will reward such people more and more.",
+        "words": []
+      },
+      {
+        "id": 171,
+        "start": 945.85,
+        "end": 950.85,
+        "text": "My prediction is that the income distribution between the top performers",
+        "words": []
+      },
+      {
+        "id": 172,
+        "start": 950.85,
+        "end": 953.85,
+        "text": "and the average performers of a company",
+        "words": []
+      },
+      {
+        "id": 173,
+        "start": 953.85,
+        "end": 955.85,
+        "text": "will become really wide.",
+        "words": []
+      },
+      {
+        "id": 174,
+        "start": 955.85,
+        "end": 959.85,
+        "text": "Perhaps the widest we have ever seen in corporate history.",
+        "words": []
+      },
+      {
+        "id": 175,
+        "start": 959.85,
+        "end": 968.76,
+        "text": "Now what can you do about it?",
+        "words": []
+      },
+      {
+        "id": 176,
+        "start": 968.76,
+        "end": 970.76,
+        "text": "Now what can you do about it?",
+        "words": []
+      },
+      {
+        "id": 177,
+        "start": 970.76,
+        "end": 972.76,
+        "text": "There is no such skill, no such function.",
+        "words": []
+      },
+      {
+        "id": 178,
+        "start": 972.76,
+        "end": 975.76,
+        "text": "You can become a rock star in 5-7 years.",
+        "words": []
+      },
+      {
+        "id": 179,
+        "start": 975.76,
+        "end": 979.52,
+        "text": "And build systems around it.",
+        "words": []
+      },
+      {
+        "id": 180,
+        "start": 979.52,
+        "end": 981.52,
+        "text": "Invest in your growth around it.",
+        "words": []
+      },
+      {
+        "id": 181,
+        "start": 981.52,
+        "end": 982.52,
+        "text": "Build skills around it.",
+        "words": []
+      },
+      {
+        "id": 182,
+        "start": 982.52,
+        "end": 987.5,
+        "text": "Get exposure around it.",
+        "words": []
+      },
+      {
+        "id": 183,
+        "start": 987.5,
+        "end": 989.5,
+        "text": "And seek hard feedback.",
+        "words": []
+      },
+      {
+        "id": 184,
+        "start": 989.5,
+        "end": 991.5,
+        "text": "Where are your dreams?",
+        "words": []
+      },
+      {
+        "id": 185,
+        "start": 991.5,
+        "end": 996.57,
+        "text": "How can you defeat them?",
+        "words": []
+      },
+      {
+        "id": 186,
+        "start": 996.57,
+        "end": 1008.94,
+        "text": "My prediction for this 70%.",
+        "words": []
+      },
+      {
+        "id": 187,
+        "start": 1008.94,
+        "end": 1011.94,
+        "text": "This is my 10 predictions for 2026 job market.",
+        "words": []
+      },
+      {
+        "id": 188,
+        "start": 1011.94,
+        "end": 1014.94,
+        "text": "For this, I will tell you three things.",
+        "words": []
+      },
+      {
+        "id": 189,
+        "start": 1014.94,
+        "end": 1019.27,
+        "text": "Number 1.",
+        "words": []
+      },
+      {
+        "id": 190,
+        "start": 1019.27,
+        "end": 1022.3,
+        "text": "Number 1.",
+        "words": []
+      },
+      {
+        "id": 191,
+        "start": 1022.3,
+        "end": 1024.3,
+        "text": "Online display.",
+        "words": []
+      },
+      {
+        "id": 192,
+        "start": 1024.3,
+        "end": 1025.3,
+        "text": "Number 1.",
+        "words": []
+      },
+      {
+        "id": 193,
+        "start": 1025.3,
+        "end": 1027.3,
+        "text": "Public body of work.",
+        "words": []
+      },
+      {
+        "id": 194,
+        "start": 1027.3,
+        "end": 1030.3,
+        "text": "We are now in an era where every person is trying to make a brand.",
+        "words": []
+      },
+      {
+        "id": 195,
+        "start": 1030.3,
+        "end": 1033.3,
+        "text": "You also have to become that person.",
+        "words": []
+      },
+      {
+        "id": 196,
+        "start": 1034.3,
+        "end": 1035.3,
+        "text": "But sharing it on LinkedIn.",
+        "words": []
+      },
+      {
+        "id": 197,
+        "start": 1035.3,
+        "end": 1036.3,
+        "text": "Sharing it on our newsletter.",
+        "words": []
+      },
+      {
+        "id": 198,
+        "start": 1036.3,
+        "end": 1041.3,
+        "text": "Sharing it on Twitter is just as important as sharing it with your manager.",
+        "words": []
+      },
+      {
+        "id": 199,
+        "start": 1042.99,
+        "end": 1043.99,
+        "text": "Number 2.",
+        "words": []
+      },
+      {
+        "id": 200,
+        "start": 1043.99,
+        "end": 1044.99,
+        "text": "Shape your environment.",
+        "words": []
+      },
+      {
+        "id": 201,
+        "start": 1044.99,
+        "end": 1046.99,
+        "text": "Which people are with you?",
+        "words": []
+      },
+      {
+        "id": 202,
+        "start": 1046.99,
+        "end": 1047.99,
+        "text": "Do they keep talking to you?",
+        "words": []
+      },
+      {
+        "id": 203,
+        "start": 1047.99,
+        "end": 1050.99,
+        "text": "Do they keep talking to you?",
+        "words": []
+      },
+      {
+        "id": 204,
+        "start": 1050.99,
+        "end": 1052.99,
+        "text": "And they are elevating your game.",
+        "words": []
+      },
+      {
+        "id": 205,
+        "start": 1052.99,
+        "end": 1053.99,
+        "text": "Teaching you new skills.",
+        "words": []
+      },
+      {
+        "id": 206,
+        "start": 1053.99,
+        "end": 1056.99,
+        "text": "Making you into a better version of who you are.",
+        "words": []
+      },
+      {
+        "id": 207,
+        "start": 1056.99,
+        "end": 1059.99,
+        "text": "Be sensitive to who you surround yourself with.",
+        "words": []
+      },
+      {
+        "id": 208,
+        "start": 1059.99,
+        "end": 1062.46,
+        "text": "And number 3.",
+        "words": []
+      },
+      {
+        "id": 209,
+        "start": 1062.46,
+        "end": 1064.46,
+        "text": "Add one income stream.",
+        "words": []
+      },
+      {
+        "id": 210,
+        "start": 1064.46,
+        "end": 1065.46,
+        "text": "Anything.",
+        "words": []
+      },
+      {
+        "id": 211,
+        "start": 1065.46,
+        "end": 1068.46,
+        "text": "But something which is a billable skill outside of your day job.",
+        "words": []
+      },
+      {
+        "id": 212,
+        "start": 1068.46,
+        "end": 1073.46,
+        "text": "So that you don't know what you can do outside of your work.",
+        "words": []
+      },
+      {
+        "id": 213,
+        "start": 1073.46,
+        "end": 1075.46,
+        "text": "That you can rely on tomorrow.",
+        "words": []
+      },
+      {
+        "id": 214,
+        "start": 1075.46,
+        "end": 1078.65,
+        "text": "I wish you the best for 2026.",
+        "words": []
+      },
+      {
+        "id": 215,
+        "start": 1078.65,
+        "end": 1079.65,
+        "text": "He is Ankurwari Kukha.",
+        "words": []
+      },
+      {
+        "id": 216,
+        "start": 1079.65,
+        "end": 1081.65,
+        "text": "Fischal Karyar's YouTube channel.",
+        "words": []
+      },
+      {
+        "id": 217,
+        "start": 1081.65,
+        "end": 1082.65,
+        "text": "And I am Ankurwari Kukha.",
+        "words": []
+      },
+      {
+        "id": 218,
+        "start": 1082.65,
+        "end": 1083.65,
+        "text": "Signing off.",
+        "words": []
+      }
+    ]
+  }
+}
