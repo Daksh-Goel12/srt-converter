@@ -3,7 +3,7 @@ services:
   - type: web
     name: srt-converter-backend
     env: docker
-    root: python-service
+    rootDir: python-service
     plan: free
     region: oregon
     envVars:
@@ -23,6 +23,7 @@ services:
     env: node
     plan: free
     region: oregon
+    rootDir: .
     buildCommand: npm install && npm run build
     startCommand: npm run start
     envVars:
