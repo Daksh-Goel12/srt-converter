@@ -8,7 +8,10 @@ import { WebSocketServer, WebSocket } from "ws";
 import { io as SocketIOClient } from "socket.io-client";
 import { createReadStream, unlinkSync } from "fs";
 
-const PYTHON_SERVICE_URL = process.env.PYTHON_SERVICE_URL || "http://localhost:5001";
+const PYTHON_HOST = process.env.PYTHON_SERVICE_HOST;
+const PYTHON_PORT = process.env.PYTHON_SERVICE_PORT || "5000";
+const PYTHON_SERVICE_URL = process.env.PYTHON_SERVICE_URL ||
+  (PYTHON_HOST ? `http://${PYTHON_HOST}:${PYTHON_PORT}` : "http://localhost:5001");
 
 // Configure multer for file uploads
 const upload = multer({
