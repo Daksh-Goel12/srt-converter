@@ -114,93 +114,98 @@ def transcribe():
         - language: Language code (optional, auto-detect if not provided)
         - task: "transcribe" or "translate"
     """
-    # Validate file
-    if 'file' not in request.files:
-        return jsonify({"error": "No file provided"}), 400
-    
-    file = request.files['file']
-    if file.filename == '':
-        return jsonify({"error": "No file selected"}), 400
-    
-    if not allowed_file(file.filename):
-        return jsonify({"error": f"File type not allowed. Allowed types: {', '.join(ALLOWED_EXTENSIONS)}"}), 400
-    
-    # Get parameters
-    model_size = request.form.get('model_size', 'base')
-    language = request.form.get('language', None)
-    task = request.form.get('task', 'transcribe')
-    use_claude_correction = request.form.get('use_claude_correction', 'false').lower() == 'true'
-    source_language = request.form.get('source_language', 'Hindi')
-    
-    # Validate model size
-    valid_models = ['tiny', 'base', 'small', 'medium', 'large-v2', 'large-v3']
-    if model_size not in valid_models:
-        return jsonify({"error": f"Invalid model size. Valid options: {', '.join(valid_models)}"}), 400
-    
-    # Generate job ID
-    job_id = str(uuid.uuid4())
-    
-    # Save uploaded file
-    filename = secure_filename(file.filename)
-    audio_path = UPLOAD_FOLDER / f"{job_id}_{filename}"
-    file.save(str(audio_path))
-    
-    # Calculate file hash for deduplication
-    file_hash = get_file_hash(str(audio_path))
-    
-    # Check if this file has been transcribed before
-    # SIMPLIFIED: Disable cache to force re-run with new code/prompts
-    # cached_job_id, cached_job = find_cached_job(file_hash)
-    # if cached_job_id:
-    #     print(f"Cache hit! Returning cached result from job {cached_job_id}")
-    #     try:
-    #         os.remove(str(audio_path))
-    #     except Exception as e:
-    #         print(f"Error removing duplicate file: {e}")
-    #     return jsonify(cached_job)
+    try:
+        # Validate file
+        if 'file' not in request.files:
+            return jsonify({"error": "No file provided"}), 400
         
-        # Return the cached job result immediately
-        # return jsonify({
-        #     "job_id": cached_job_id,
-        #     "status": "completed",
-        #     "message": "File already transcribed - returning cached result",
-        #     "cached": True,
-        #     "metadata": cached_job.get("metadata", {}),
-        #     "segments": cached_job.get("segments", [])
-        # }), 200
-    
-    # Initialize job with file hash
-    jobs[job_id] = {
-        "id": job_id,
-        "status": "queued",
-        "progress": 0,
-        "filename": filename,
-        "audio_path": str(audio_path),
-        "model_size": model_size,
-        "language": language,
-        "task": task,
-        "file_hash": file_hash  # Store hash for future deduplication
-    }
-    save_jobs()  # Persist to disk
-    
-    # Start transcription in background thread
-    # Start transcription in background task (compatible with eventlet)
-    socketio.start_background_task(
-        process_transcription,
-        job_id,
-        str(audio_path),
-        model_size,
-        language,
-        task,
-        use_claude_correction,
-        source_language
-    )
-    
-    return jsonify({
-        "job_id": job_id,
-        "status": "queued",
-        "message": "Transcription started"
-    }), 202
+        file = request.files['file']
+        if file.filename == '':
+            return jsonify({"error": "No file selected"}), 400
+        
+        if not allowed_file(file.filename):
+            return jsonify({"error": f"File type not allowed. Allowed types: {', '.join(ALLOWED_EXTENSIONS)}"}), 400
+        
+        # Get parameters
+        model_size = request.form.get('model_size', 'base')
+        language = request.form.get('language', None)
+        task = request.form.get('task', 'transcribe')
+        use_claude_correction = request.form.get('use_claude_correction', 'false').lower() == 'true'
+        source_language = request.form.get('source_language', 'Hindi')
+        
+        # Validate model size
+        valid_models = ['tiny', 'base', 'small', 'medium', 'large-v2', 'large-v3']
+        if model_size not in valid_models:
+            return jsonify({"error": f"Invalid model size. Valid options: {', '.join(valid_models)}"}), 400
+        
+        # Generate job ID
+        job_id = str(uuid.uuid4())
+        
+        # Save uploaded file
+        filename = secure_filename(file.filename)
+        audio_path = UPLOAD_FOLDER / f"{job_id}_{filename}"
+        file.save(str(audio_path))
+        
+        # Calculate file hash for deduplication
+        file_hash = get_file_hash(str(audio_path))
+        
+        # Check if this file has been transcribed before
+        # SIMPLIFIED: Disable cache to force re-run with new code/prompts
+        # cached_job_id, cached_job = find_cached_job(file_hash)
+        # if cached_job_id:
+        #     print(f"Cache hit! Returning cached result from job {cached_job_id}")
+        #     try:
+        #         os.remove(str(audio_path))
+        #     except Exception as e:
+        #         print(f"Error removing duplicate file: {e}")
+        #     return jsonify(cached_job)
+            
+            # Return the cached job result immediately
+            # return jsonify({
+            #     "job_id": cached_job_id,
+            #     "status": "completed",
+            #     "message": "File already transcribed - returning cached result",
+            #     "cached": True,
+            #     "metadata": cached_job.get("metadata", {}),
+            #     "segments": cached_job.get("segments", [])
+            # }), 200
+        
+        # Initialize job with file hash
+        jobs[job_id] = {
+            "id": job_id,
+            "status": "queued",
+            "progress": 0,
+            "filename": filename,
+            "audio_path": str(audio_path),
+            "model_size": model_size,
+            "language": language,
+            "task": task,
+            "file_hash": file_hash  # Store hash for future deduplication
+        }
+        save_jobs()  # Persist to disk
+        
+        # Start transcription in background task (compatible with eventlet)
+        socketio.start_background_task(
+            process_transcription,
+            job_id,
+            str(audio_path),
+            model_size,
+            language,
+            task,
+            use_claude_correction,
+            source_language
+        )
+        
+        return jsonify({
+            "job_id": job_id,
+            "status": "queued",
+            "message": "Transcription started"
+        }), 202
+        
+    except Exception as e:
+        import traceback
+        traceback.print_exc()
+        return jsonify({"error": f"Internal Server Error: {str(e)}"}), 500
 
 
 def process_transcription(job_id, audio_path, model_size, language, task, use_claude_correction=False, source_language="Hindi"):
