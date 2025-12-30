@@ -13,18 +13,22 @@ services:
         sync: false  # User will be prompted to enter this
       - key: ALLOWED_ORIGINS
         fromService:
-          type: site
+          type: web
           name: srt-converter-client
           property: url
 
-  # Frontend: Static React Site
-  - type: site
+  # Frontend: Node Web Service (Serving Client + Proxy)
+  - type: web
     name: srt-converter-client
-    root: .
+    env: node
+    plan: free
+    region: oregon
     buildCommand: npm install && npm run build
-    publishDir: dist/public
+    startCommand: npm run start
     envVars:
-      - key: VITE_API_URL
+      - key: NODE_VERSION
+        value: 20
+      - key: PYTHON_SERVICE_URL
         fromService:
           type: web
           name: srt-converter-backend
