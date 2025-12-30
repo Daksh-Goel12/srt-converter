@@ -1,16 +1,7 @@
 services:
   # Backend: Python Service
-  - type: web
-    name: srt-converter-backend
-    env: docker
-    rootDir: python-service
-    plan: free
-    region: oregon
-    envVars:
-      - key: PYTHON_SERVICE_PORT
-        value: 5000
-      - key: ANTHROPIC_API_KEY
-        sync: false  # User will be prompted to enter this
+  # Backend is now hosted on Hugging Face Spaces to effectively use 16GB free RAM.
+  # We only deploy the frontend on Render.
 
   # Frontend: Node Web Service (Serving Client + Proxy)
   - type: web

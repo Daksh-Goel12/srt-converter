@@ -97,7 +97,7 @@ class TranscriptionService:
             audio_path,
             language=language,
             task=task,
-            beam_size=1, # Greedy search (saves HUGE memory)
+            beam_size=5,
             vad_filter=True,  # Voice activity detection
             vad_parameters=dict(min_silence_duration_ms=500)
         )
